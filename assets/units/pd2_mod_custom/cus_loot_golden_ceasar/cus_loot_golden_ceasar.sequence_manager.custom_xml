@@ -19,6 +19,7 @@
 			<interaction enabled="true"/>
 		</sequence>
 		<sequence name="'interact'">
+			<interaction enabled="false"/>
 			<object name="'g_bust'" enabled="false"/>
 			<decal_mesh name=" 'g_bust' " enabled="false"/>
 			<body name=" 'body_bust' " enabled="false"/>
