@@ -1,0 +1,73 @@
+<table directory="assets">
+
+	<!---->
+	<add unload_on_restart="true">
+		<unit				path="units/pd2_mod_custom/cus_winch_device/cus_winch_device" unload="true" load="true"/>
+		<object				path="units/pd2_mod_custom/cus_winch_device/cus_winch_device" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_winch_device/cus_winch_device" unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_winch_device/cus_winch_device" unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_winch_device/cus_winch_device" unload="true"/>
+	</add>
+
+	<!-- START OF CUSTOM DOUBLE KEYCARD PANEL -->
+	<add unload_on_restart="true">
+		<unit				path="units/pd2_mod_custom/cus_double_keycard_panel/cus_double_keycard_panel" unload="true" load="true"/>
+		<object				path="units/pd2_mod_custom/cus_double_keycard_panel/cus_double_keycard_panel" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_double_keycard_panel/cus_double_keycard_panel" unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_double_keycard_panel/cus_double_keycard_panel" unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_double_keycard_panel/cus_double_keycard_panel" unload="true"/>
+	</add>
+	<!-- END OF CUSTOM DOUBLE KEYCARD PANEL -->
+
+	<!-- START OF CUSTOM LOOT PAINTING -->
+	<add unload_on_restart="true">
+		<unit				path="units/pd2_mod_custom/cus_loot_painting/cus_loot_painting" unload="true" load="true"/>
+		<object				path="units/pd2_mod_custom/cus_loot_painting/cus_loot_painting" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_loot_painting/cus_loot_painting" unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_loot_painting/cus_loot_painting_blue" unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_loot_painting/cus_loot_painting_red" unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_loot_painting/cus_loot_painting_green" unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_loot_painting/cus_loot_painting" unload="true"/>
+	</add>
+	<!-- END OF CUSTOM LOOT PAINTING -->
+
+	<!-- START OF CUSTOM WINDOW PLANKS -->
+	<add unload_on_restart="true">
+		<unit				path="units/pd2_mod_custom/cus_better_window_planks/cus_better_window_planks" unload="true" load="true"/>
+		<object				path="units/pd2_mod_custom/cus_better_window_planks/cus_better_window_planks" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_better_window_planks/cus_better_window_planks" unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_better_window_planks/cus_better_window_planks" unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_better_window_planks/cus_better_window_planks" unload="true"/>
+		<unit				path="units/pd2_mod_custom/cus_better_window_planks/cus_better_window_planks_debris" unload="true" load="true"/>
+		<object				path="units/pd2_mod_custom/cus_better_window_planks/cus_better_window_planks_debris" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_better_window_planks/cus_better_window_planks_debris" unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_better_window_planks/cus_better_window_planks_debris" unload="true"/>
+		<effect				path="units/pd2_mod_custom/cus_better_window_planks/cus_better_window_planks_debris" unload="true"/>
+	</add>
+	<!-- END OF CUSTOM WINDOW PLANKS -->
+
+	<!-- START OF CUSTOM CEASAR LOOT -->
+	<add unload_on_restart="true">
+		<unit				path="units/pd2_mod_custom/cus_loot_golden_ceasar/cus_loot_golden_ceasar" unload="true" load="true"/>
+		<object				path="units/pd2_mod_custom/cus_loot_golden_ceasar/cus_loot_golden_ceasar" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_loot_golden_ceasar/cus_loot_golden_ceasar" unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_loot_golden_ceasar/cus_loot_golden_ceasar" unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_loot_golden_ceasar/cus_loot_golden_ceasar" unload="true"/>
+	</add>
+	<!-- END OF CUSTOM CEASAR LOOT -->
+
+	<!-- START OF CUSTOM BREAKABLE SERVERS -->
+	<add unload_on_restart="true">
+		<unit				path="units/pd2_mod_custom/cus_server_rack_breakable/cus_server_rack_breakable" unload="true" load="true"/>
+		<object				path="units/pd2_mod_custom/cus_server_rack_breakable/cus_server_rack_breakable" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_server_rack_breakable/cus_server_rack_breakable" unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_server_rack_breakable/cus_server_rack_breakable" unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_server_rack_breakable/cus_server_rack_breakable" unload="true"/>
+		<unit				path="units/pd2_mod_custom/cus_server_rack_breakable/cus_server_rack_breakable_debris" unload="true" load="true"/>
+		<object				path="units/pd2_mod_custom/cus_server_rack_breakable/cus_server_rack_breakable_debris" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_server_rack_breakable/cus_server_rack_breakable_debris" unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_server_rack_breakable/cus_server_rack_breakable_debris" unload="true"/>
+	</add>
+	<!-- END OF CUSTOM BREAKABLE SERVERS -->
+	
+</table>
