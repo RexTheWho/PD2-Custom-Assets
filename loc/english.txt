@@ -1,1 +1,5 @@
-{}
+{
+	"heist_name_id":"Name",
+	"heist_desc_id":"Desc",
+	"last_id":"The Last In The List"
+}

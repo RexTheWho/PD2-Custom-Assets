@@ -125,6 +125,9 @@
 		<table>
 			<unit_data _prev_pos="473.558 -61.4441 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_006" only_exists_in_editor="true" position="473.558 -61.4441 0" rotation="0 0 0 -1" unit_id="100026"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="475 475 0" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/cus_moneybag_pile_burnable/cus_moneybag_pile_burnable" name_id="cus_moneybag_pile_burnable_001" position="475 475 0" rotation="-0 0 -0 -1" unit_id="100027"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
