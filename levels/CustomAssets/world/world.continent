@@ -72,7 +72,7 @@
 			<unit_data _prev_pos="400 -400 0" _prev_rot="0 0 0 -1" continent="world" local_pos="400 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_017" position="400 -800 0" rotation="0 0 0 -1" unit_id="100045"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="0 -850 0" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_018" position="0 -800 0" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100046"/>
+			<unit_data _prev_pos="0 -1000 0" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_018" position="0 -1000 0" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100046"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="700 200 -25" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_cube_1x1" name_id="mkp_int_cube_1x1_001" position="700 300 -25" rotation="-0 0 -0 -1" unit_id="100034"/>
@@ -127,6 +127,15 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="475 475 0" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/cus_moneybag_pile_burnable/cus_moneybag_pile_burnable" name_id="cus_moneybag_pile_burnable_001" position="475 475 0" rotation="-0 0 -0 -1" unit_id="100027"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 -600 100" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/cus_shutter_1x1m/cus_shutter_1x1m" name_id="cus_shutter_1x1m_001" position="0 -600 100" rotation="0 0 -0.707107 -0.707107" unit_id="100028"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 -650 -300" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_024" position="0 -700 -300" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100029"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 -650 -300" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_025" position="0 -700 200" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100030"/>
 		</table>
 	</statics>
 	<values>

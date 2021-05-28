@@ -82,5 +82,15 @@
 		<texture			path="units/pd2_mod_custom/cus_moneybag_pile_burnable/burnt_lootbag_df" unload="true"/>
 	</add>
 	<!-- END OF CUSTOM BURNABLE MONEYBAG PILE -->
+
+	<!-- START OF CUSTOM SHUTTER 1x1 -->
+	<add unload_on_restart="true">
+		<unit				path="units/pd2_mod_custom/cus_shutter_1x1m/cus_shutter_1x1m" unload="true" load="true"/>
+		<object				path="units/pd2_mod_custom/cus_shutter_1x1m/cus_shutter_1x1m" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_shutter_1x1m/cus_shutter_1x1m" unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_shutter_1x1m/cus_shutter_1x1m" unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_shutter_1x1m/cus_shutter_1x1m" unload="true"/>
+	</add>
+	<!-- END OF CUSTOM SHUTTER 1x1 -->
 	
 </table>
