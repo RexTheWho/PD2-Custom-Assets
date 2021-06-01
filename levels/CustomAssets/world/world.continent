@@ -143,6 +143,15 @@
 		<table>
 			<unit_data _prev_pos="600 -400 0" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/cus_interactable_door_wooden_a/cus_interactable_door_wooden_a" name_id="cus_interactable_door_wooden_a_001" position="600 -400 0" rotation="-0 0 -0 -1" unit_id="100036"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="160.876 -672.235 0" _prev_rot="-0.000185925 6.49653e-005 -4.4779e-005 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/cus_explosive_propane_tank/cus_explosive_propane_tank" name_id="cus_explosive_propane_tank_001" position="160.876 -672.235 0" rotation="-0.000185925 6.49653e-005 -4.4779e-005 -1" unit_id="100037"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="204.616 -647.813 0" _prev_rot="-0.000185925 6.49653e-005 -4.4779e-005 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/cus_explosive_propane_tank/cus_explosive_propane_tank" name_id="cus_explosive_propane_tank_002" position="204.616 -647.813 0" rotation="-0.000185925 6.49653e-005 -4.4779e-005 -1" unit_id="100038"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="764.771 219.593 75" _prev_rot="-0.000185925 6.49653e-005 -4.4779e-005 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/cus_explosive_propane_tank/cus_explosive_propane_tank" name_id="cus_explosive_propane_tank_003" position="764.771 219.593 75" rotation="-0.000185925 6.49653e-005 -4.4779e-005 -1" unit_id="100049"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
