@@ -102,5 +102,15 @@
 		<sequence_manager	path="units/pd2_mod_custom/cus_loot_crate_big/cus_loot_crate_big" unload="true"/>
 	</add>
 	<!-- END OF CUSTOM CRATE BIG -->
+
+	<!-- START OF CUSTOM CRATE BIG -->
+	<add unload_on_restart="true">
+		<unit				path="units/pd2_mod_custom/cus_interactable_door_wooden_a/cus_interactable_door_wooden_a" unload="true" load="true"/>
+		<object				path="units/pd2_mod_custom/cus_interactable_door_wooden_a/cus_interactable_door_wooden_a" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_interactable_door_wooden_a/cus_interactable_door_wooden_a" unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_interactable_door_wooden_a/cus_interactable_door_wooden_a" unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_interactable_door_wooden_a/cus_interactable_door_wooden_a" unload="true"/>
+	</add>
+	<!-- END OF CUSTOM CRATE BIG -->
 	
 </table>

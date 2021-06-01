@@ -140,6 +140,9 @@
 		<table>
 			<unit_data _prev_pos="129 800 100" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="hide_all_and_disable" name="units/pd2_mod_custom/cus_double_keycard_panel/cus_double_keycard_panel" name_id="cus_double_keycard_panel_002" position="129 800 100" rotation="-0 0 -0 -1" unit_id="100031"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="600 -400 0" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/cus_interactable_door_wooden_a/cus_interactable_door_wooden_a" name_id="cus_interactable_door_wooden_a_001" position="600 -400 0" rotation="-0 0 -0 -1" unit_id="100036"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
