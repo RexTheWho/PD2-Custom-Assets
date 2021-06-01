@@ -29,6 +29,8 @@
 			<object name="g_keycard2"		enabled="false" />
 			<object name="g_screen_closed"	enabled="true" />
 			<object name="g_screen_opened"	enabled="false" />
+			<object name="g_screen_jammed"	enabled="false" />
+			<object name="g_screen_reboot"	enabled="false" />
 		</graphic_group>
 		
 		<graphic_group name="grp_keycard1_contour" enabled="true" culling_object="g_keycard1_contour">

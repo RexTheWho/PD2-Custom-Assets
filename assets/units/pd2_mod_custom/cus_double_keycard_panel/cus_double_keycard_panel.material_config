@@ -15,6 +15,26 @@
         <variable						value="monitor" type="scalar" name="il_multiplier"/>
     </material>
 	
+    <material name="mtr_screen_jammed" render_template="generic:DIFFUSE_TEXTURE:SELF_ILLUMINATION:SELF_ILLUMINATION_UVANIM" version="2">
+        <diffuse_texture				file="units/world/props/gym/stn_prop_monitor/signal_lost_df"/>
+        <self_illumination_texture		file="units/world/props/gym/stn_prop_monitor/signal_lost_il"/>
+        <variable						value="monitor" type="scalar" name="il_multiplier"/>
+        <variable						type="vector3" name="uv_speed" value="66.123 -77.33 0"/>
+    </material>
+	
+    <material name="mtr_screen_reboot" render_template="generic:DIFFUSE_TEXTURE:SELF_ILLUMINATION" version="2">
+        <diffuse_texture				file="units/world/props/gym/stn_prop_monitor/signal_lost_df"/>
+        <self_illumination_texture		file="units/world/props/display/bank_display_master_il"/>
+        <variable						value="monitor" type="scalar" name="il_multiplier"/>
+    </material>
+	
+    <material name="mtr_screen_reboot_anim" render_template="generic:DIFFUSE_TEXTURE:SELF_ILLUMINATION:SELF_ILLUMINATION_UVANIM" version="2">
+        <diffuse_texture				file="units/world/props/gym/stn_prop_monitor/signal_lost_df"/>
+        <self_illumination_texture		file="units/world/props/display/bank_display_master_il"/>
+        <variable						value="monitor" type="scalar" name="il_multiplier"/>
+        <variable						type="vector3" name="uv_speed" value="1 0 0"/>
+    </material>
+	
     <material name="mat_contour" render_template="generic:ALPHA_MASKED:CONTOUR:DIFFUSE_TEXTURE:OPACITY_TEXTURE" unique="true" version="2">
         <diffuse_texture file="units/white_df"/>
         <variable value="0 1 0" type="vector3" name="contour_color"/>
