@@ -113,7 +113,7 @@
 	</add>
 	<!-- END OF CUSTOM CRATE BIG -->
 
-	<!-- START OF CUSTOM CRATE BIG -->
+	<!-- START OF CUSTOM PROPANE AND PROPANE ACCESSORIES -->
 	<add unload_on_restart="true">
 		<unit				path="units/pd2_mod_custom/cus_explosive_propane_tank/cus_explosive_propane_tank" unload="true" load="true"/>
 		<object				path="units/pd2_mod_custom/cus_explosive_propane_tank/cus_explosive_propane_tank" unload="true"/>
@@ -124,6 +124,16 @@
 		<effect				path="units/pd2_mod_custom/cus_explosive_propane_tank/small_burning" unload="true"/>
 		<effect				path="units/pd2_mod_custom/cus_explosive_propane_tank/large_burning" unload="true"/>
 	</add>
-	<!-- END OF CUSTOM CRATE BIG -->
+	<!-- END OF CUSTOM PROPANE AND PROPANE ACCESSORIES -->
+
+	<!-- START OF CUSTOM BODY CASE -->
+	<add unload_on_restart="true">
+		<unit				path="units/pd2_mod_custom/cus_bodydump_band_flightcase/cus_bodydump_band_flightcase" unload="true" load="true"/>
+		<object				path="units/pd2_mod_custom/cus_bodydump_band_flightcase/cus_bodydump_band_flightcase" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_bodydump_band_flightcase/cus_bodydump_band_flightcase" unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_bodydump_band_flightcase/cus_bodydump_band_flightcase" unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_bodydump_band_flightcase/cus_bodydump_band_flightcase" unload="true"/>
+	</add>
+	<!-- END OF CUSTOM BODY CASE -->
 	
 </table>
