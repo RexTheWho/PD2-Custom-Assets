@@ -1,5 +1,10 @@
 {
-	"heist_name_id":"Name",
-	"heist_desc_id":"Desc",
+	"heist_CustomAssets_name":"Custom Assets Testing Map",
+	"heist_CustomAssets_brief":" --- ",
+	
+	"hud_int_hold_take_weed":			"Hold $BTN_INTERACT to bag marijuana",
+	"hud_action_taking_weed":			"Bagging marijuana",
+	"hud_carry_weed":					"Marijuana",
+	
 	"last_id":"The Last In The List"
 }

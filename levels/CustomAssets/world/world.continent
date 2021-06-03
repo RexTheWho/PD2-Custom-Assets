@@ -150,13 +150,28 @@
 			<unit_data _prev_pos="204.616 -647.813 0" _prev_rot="-0.000185925 6.49653e-005 -4.4779e-005 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/cus_explosive_propane_tank/cus_explosive_propane_tank" name_id="cus_explosive_propane_tank_002" position="204.616 -647.813 0" rotation="-0.000185925 6.49653e-005 -4.4779e-005 -1" unit_id="100038"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="764.771 219.593 75" _prev_rot="-0.000185925 6.49653e-005 -4.4779e-005 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/cus_explosive_propane_tank/cus_explosive_propane_tank" name_id="cus_explosive_propane_tank_003" position="764.771 219.593 75" rotation="-0.000185925 6.49653e-005 -4.4779e-005 -1" unit_id="100049"/>
+			<unit_data _prev_pos="742.419 170.762 0" _prev_rot="-0.000185925 6.49653e-005 -4.4779e-005 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/cus_explosive_propane_tank/cus_explosive_propane_tank" name_id="cus_explosive_propane_tank_003" position="742.419 170.762 0" rotation="-0.000185925 6.49653e-005 -4.4779e-005 -1" unit_id="100049"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="500 -700 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="activate_door" name="units/pd2_mod_custom/cus_bodydump_band_flightcase/cus_bodydump_band_flightcase" name_id="cus_bodydump_band_flightcase_001" position="500 -700 0" rotation="0 0 1 4.37114e-008" unit_id="100050"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="800 -800 0" _prev_rot="-0.270598 0.653281 0.653282 -0.270598" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_026" position="800 -800 0" rotation="0 0.707107 0.707107 -2.98023e-008" unit_id="100051"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="752.867 -27.7991 75" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="disable_interaction" name="units/pd2_mod_custom/cus_loot_weed/cus_loot_weed" name_id="cus_loot_weed_001" position="752.867 -27.799 75" rotation="-0 0 -0 -1" unit_id="100052"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="753.267 -74.5633 75" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show_and_enable_interaction" name="units/pd2_mod_custom/cus_loot_weed/cus_loot_weed" name_id="cus_loot_weed_002" position="753.267 -74.5633 75" rotation="-0 0 -0 -1" unit_id="100053"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="726.964 -164.81 75" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_interaction_half_circle" name="units/pd2_mod_custom/cus_loot_weed/cus_loot_weed" name_id="cus_loot_weed_003" position="726.964 -164.81 75" rotation="0 0 -0.92388 -0.382683" unit_id="100054"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="700 200 -25" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_cube_1x1" name_id="mkp_int_cube_1x1_004" position="700 -200 -25" rotation="0 0 0 -1" unit_id="100055"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="700 300 -25" _prev_rot="0 0 0 -1" continent="world" local_pos="0 100 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_cube_1x1" name_id="mkp_int_cube_1x1_005" position="700 -100 -25" rotation="0 0 0 -1" unit_id="100056"/>
 		</table>
 	</statics>
 	<values>

@@ -135,5 +135,16 @@
 		<sequence_manager	path="units/pd2_mod_custom/cus_bodydump_band_flightcase/cus_bodydump_band_flightcase" unload="true"/>
 	</add>
 	<!-- END OF CUSTOM BODY CASE -->
+
+	<!-- START OF CUSTOM LOOT WEED -->
+	<add unload_on_restart="true">
+		<unit				path="units/pd2_mod_custom/cus_loot_weed/cus_loot_weed" unload="true" load="true"/>
+		<object				path="units/pd2_mod_custom/cus_loot_weed/cus_loot_weed" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_loot_weed/cus_loot_weed" unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_loot_weed/cus_loot_weed" unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_loot_weed/cus_loot_weed" unload="true"/>
+		<texture			path="units/pd2_mod_custom/cus_loot_weed/cus_loot_weed_df" unload="true"/>
+	</add>
+	<!-- END OF CUSTOM LOOT WEED -->
 	
 </table>
