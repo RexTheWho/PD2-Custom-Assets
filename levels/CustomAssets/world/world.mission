@@ -878,6 +878,37 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
+			<entry index="35" type="table">
+				<entry key="class" type="string" value="ElementUnitSequence"/>
+				<entry key="editor_name" type="string" value="unit_sequence_006"/>
+				<entry key="id" type="number" value="100034"/>
+				<entry key="module" type="string" value="CoreElementUnitSequence"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="true"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="404.63 -612.385 0"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_list" type="table">
+						<entry index="1" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="100057"/>
+							<entry key="notify_unit_sequence" type="string" value="show_contour"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="100058"/>
+							<entry key="notify_unit_sequence" type="string" value="deactivate_door"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
 		</entry>
 		<entry key="instances" type="table">
 		</entry>

@@ -16,6 +16,14 @@
 			<interaction enabled="true"/>
 		</sequence>
 		
+		<sequence editable_state="true" name="'show_contour'" triggable="true">
+			<graphic_group visibility="true" name="'grp_lid_contour'"/>
+		</sequence>
+		
+		<sequence editable_state="true" name="'hide_contour'" triggable="true">
+			<graphic_group visibility="false" name="'grp_lid_contour'"/>
+		</sequence>
+		
 		<sequence editable_state="true" name="'deactivate_door'" triggable="true">
 			<interaction enabled="false"/>
 		</sequence>

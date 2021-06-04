@@ -144,16 +144,16 @@
 			<unit_data _prev_pos="600 -400 0" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/cus_interactable_door_wooden_a/cus_interactable_door_wooden_a" name_id="cus_interactable_door_wooden_a_001" position="600 -400 0" rotation="-0 0 -0 -1" unit_id="100036"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="160.876 -672.235 0" _prev_rot="-0.000185925 6.49653e-005 -4.4779e-005 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/cus_explosive_propane_tank/cus_explosive_propane_tank" name_id="cus_explosive_propane_tank_001" position="160.876 -672.235 0" rotation="-0.000185925 6.49653e-005 -4.4779e-005 -1" unit_id="100037"/>
+			<unit_data _prev_pos="38.8941 -476.53 0" _prev_rot="-0.000185925 6.49653e-005 -4.4779e-005 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/cus_explosive_propane_tank/cus_explosive_propane_tank" name_id="cus_explosive_propane_tank_001" position="38.8941 -476.53 0" rotation="-0.000185925 6.49653e-005 -4.4779e-005 -1" unit_id="100037"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="204.616 -647.813 0" _prev_rot="-0.000185925 6.49653e-005 -4.4779e-005 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/cus_explosive_propane_tank/cus_explosive_propane_tank" name_id="cus_explosive_propane_tank_002" position="204.616 -647.813 0" rotation="-0.000185925 6.49653e-005 -4.4779e-005 -1" unit_id="100038"/>
+			<unit_data _prev_pos="82.6341 -452.108 -9.31323e-010" _prev_rot="-0.000185925 6.49653e-005 -4.4779e-005 -1" continent="world" local_pos="43.7422 24.4181 -0.0147639" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/cus_explosive_propane_tank/cus_explosive_propane_tank" name_id="cus_explosive_propane_tank_002" position="82.6341 -452.108 -9.31323e-010" rotation="-0.000185925 6.49653e-005 -4.4779e-005 -1" unit_id="100038"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="742.419 170.762 0" _prev_rot="-0.000185925 6.49653e-005 -4.4779e-005 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/cus_explosive_propane_tank/cus_explosive_propane_tank" name_id="cus_explosive_propane_tank_003" position="742.419 170.762 0" rotation="-0.000185925 6.49653e-005 -4.4779e-005 -1" unit_id="100049"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="500 -700 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="activate_door" name="units/pd2_mod_custom/cus_bodydump_band_flightcase/cus_bodydump_band_flightcase" name_id="cus_bodydump_band_flightcase_001" position="500 -700 0" rotation="0 0 1 4.37114e-008" unit_id="100050"/>
+			<unit_data _prev_pos="500 -700 0" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="activate_door" name="units/pd2_mod_custom/cus_bodydump_band_flightcase/cus_bodydump_band_flightcase" name_id="cus_bodydump_band_flightcase_001" position="600 -700 0" rotation="0 0 1 4.37114e-008" unit_id="100050"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="800 -800 0" _prev_rot="-0.270598 0.653281 0.653282 -0.270598" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_026" position="800 -800 0" rotation="0 0.707107 0.707107 -2.98023e-008" unit_id="100051"/>
@@ -172,6 +172,15 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="700 300 -25" _prev_rot="0 0 0 -1" continent="world" local_pos="0 100 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_cube_1x1" name_id="mkp_int_cube_1x1_005" position="700 -100 -25" rotation="0 0 0 -1" unit_id="100056"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 -700 0" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="activate_door" name="units/pd2_mod_custom/cus_bodydump_band_flightcase/cus_bodydump_band_flightcase" name_id="cus_bodydump_band_flightcase_002" position="400 -700 0" rotation="0 0 1 4.37114e-008" unit_id="100057"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 -700 0" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show_contour" name="units/pd2_mod_custom/cus_bodydump_band_flightcase/cus_bodydump_band_flightcase" name_id="cus_bodydump_band_flightcase_003" position="200 -700 0" rotation="0 0 1 -4.37114e-008" unit_id="100058"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 -800 0" _prev_rot="0 0.707107 0.707107 -2.98023e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_027" position="400 -800 1.68587e-005" rotation="0 0.707107 0.707107 -2.98023e-008" unit_id="100059"/>
 		</table>
 	</statics>
 	<values>
