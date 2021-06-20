@@ -4,6 +4,7 @@
 			<var_cards value="0"/>
 			<var_visible value="1"/>
 			<var_jammed value="0"/>
+			<var_enabled value="0"/>
 		</variables>
 		
 		<filter name="'filter_0_cards'">
@@ -27,15 +28,32 @@
 			<check value="vars.var_visible == 1"/>
 		</filter>
 		
+		<filter name="'filter_unlocked'">
+			<check value="vars.var_enabled == 1"/>
+		</filter>
+		<filter name="'filter_locked'">
+			<check value="vars.var_enabled == 0"/>
+		</filter>
+		
 		
 		<sequence editable_state="true" name="'hide_all_and_disable'" triggable="true">
+			<run_sequence name="'set_locked'" />
 			<run_sequence name="'hide_all'" />
 			<run_sequence name="'disable_interaction'" />
 		</sequence>
 		
 		<sequence editable_state="true" name="'show_all_and_enable'" triggable="true">
+			<run_sequence name="'set_unlocked'" />
 			<run_sequence name="'show_all'" />
 			<run_sequence name="'enable_interaction'" />
+		</sequence>
+		
+		<sequence editable_state="true" name="'set_locked'" triggable="true">
+			<set_variables var_enabled="0"/>
+		</sequence>
+		
+		<sequence editable_state="true" name="'set_unlocked'" triggable="true">
+			<set_variables var_enabled="1"/>
 		</sequence>
 		
 		
@@ -86,7 +104,8 @@
 		</sequence>
 		
 		<sequence editable_state="false" name="'done_rebooted'" filter="'filter_not_jammed'" triggable="false">
-			<run_sequence name="'enable_interaction'" />
+			<run_sequence name="'enable_interaction'" filter="filter_unlocked"/>
+			<run_sequence name="'disable_interaction'" filter="filter_locked"/>
 			<object enabled="false"	name="'g_screen_reboot'" />
 			<object filter="'filter_not_2_cards'" enabled="true"	name="'g_screen_closed'" />
 			<object filter="'filter_2_cards'" enabled="true"		name="'g_screen_opened'" />

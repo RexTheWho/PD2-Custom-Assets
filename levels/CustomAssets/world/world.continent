@@ -182,6 +182,9 @@
 		<table>
 			<unit_data _prev_pos="800 -800 0" _prev_rot="0 0.707107 0.707107 -2.98023e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_027" position="400 -800 1.68587e-005" rotation="0 0.707107 0.707107 -2.98023e-008" unit_id="100059"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="86.5526 800 134.372" _prev_rot="-0.707107 0 0 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/are_prop_security_button/are_prop_security_button" name_id="are_prop_security_button_001" position="86.5526 800 134.372" rotation="-0.707107 0 0 -0.707107" unit_id="100060"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
