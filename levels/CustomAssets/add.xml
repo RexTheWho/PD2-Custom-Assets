@@ -146,5 +146,15 @@
 		<texture			path="units/pd2_mod_custom/cus_loot_weed/cus_loot_weed_df" unload="true"/>
 	</add>
 	<!-- END OF CUSTOM LOOT WEED -->
+
+	<!-- START OF CUSTOM WIRE -->
+	<add unload_on_restart="true">
+		<unit				path="units/pd2_mod_custom/cus_cables/cus_cables" unload="true" load="true"/>
+		<object				path="units/pd2_mod_custom/cus_cables/cus_cables" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_cables/cus_cables" unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_cables/cus_cables" unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_cables/cus_cables" unload="true"/>
+	</add>
+	<!-- END OF CUSTOM WIRE -->
 	
 </table>
