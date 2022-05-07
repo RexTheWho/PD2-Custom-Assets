@@ -260,6 +260,30 @@
 		<table>
 			<unit_data _prev_pos="1080.53 241.935 75" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show_enable" name="units/pd2_mod_custom/cus_loot_m4/weapons/cus_loot_m4_static_z_axis" name_id="cus_loot_m4_static_z_axis_001" position="1080.53 241.935 75" rotation="0 0 0 -1" unit_id="100085"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="999 383.938 62.901" _prev_rot="-0.5 0.5 0.5 -0.5" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_001" position="999 378.938 62.901" rotation="-0.5 0.5 0.5 -0.5" unit_id="100086">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="1.41459" render_template="diffuse_vc_decal" text="M4 Case" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="999 300.938 62.901" _prev_rot="-0.5 0.5 0.5 -0.5" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_002" position="999 293.938 62.901" rotation="-0.5 0.5 0.5 -0.5" unit_id="100087">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="0.73796" render_template="diffuse_vc_decal" text="/Forward Interaction Only" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
