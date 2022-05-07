@@ -14,6 +14,7 @@
 			<value_node value="levels/narratives/classics/pal/world"/>
 			<value_node value="levels/narratives/classics/dah/editor only/editor only"/>
 			<value_node value="levels/instances/unique/fex/fex_winecellar_gate_button/world/world"/>
+			<value_node value="levels/instances/unique/are_exfil_puzzle/world"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">

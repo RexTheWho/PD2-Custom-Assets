@@ -1,0 +1,12 @@
+<table>
+	<unit>
+		<sequence editable_state="true" name=" 'open_door' " triggable="true">
+			<animation_group enabled="true" name="'open_door'"/>
+			<body enabled="false" name="'player_glitch_blocker'"/>
+		</sequence>
+		<sequence name=" 'close_door' " triggable="true">
+			<animation_group enabled="true" from="4" name="'open_door'" speed="-1" to="0"/>
+			<body enabled="true" name="'player_glitch_blocker'"/>
+		</sequence>
+	</unit>
+</table>
