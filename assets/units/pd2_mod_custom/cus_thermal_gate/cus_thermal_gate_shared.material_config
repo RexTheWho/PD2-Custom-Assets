@@ -4,7 +4,7 @@
 		<diffuse_texture file="units/payday2/glass/glass_clear_small_df" />
 		<opacity_texture file="units/payday2/glass/glass_clear_small_op" />
 		<variable value="0" type="scalar" name="alpha_ref" />
-		<reflection_texture global_texture="current_global_texture" type="cubemap" />
+        <reflection_texture file="environments/cubemaps/cubemap_mirror" type="cubemap"/>
 	</material>
 	<material name="mat_door" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
 		<diffuse_texture file="units/pd2_dlc_red/props/red_prop_gate_thermal/red_prop_gate_thermal_df" />
