@@ -156,5 +156,35 @@
 		<sequence_manager	path="units/pd2_mod_custom/cus_cables/cus_cables" unload="true"/>
 	</add>
 	<!-- END OF CUSTOM WIRE -->
+
+	<!-- START OF CUSTOM M4 WEAPON CASE -->
+	<add unload_on_restart="true">
+		<unit				path="units/pd2_mod_custom/cus_loot_m4/cases/cus_loot_m4_case" unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_loot_m4/cases/cus_loot_m4_case" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_loot_m4/cases/cus_loot_m4_case" unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_loot_m4/cases/cus_loot_m4_case" unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_loot_m4/cases/cus_loot_m4_case" unload="true"/>
+		<cooked_physics		path="units/pd2_mod_custom/cus_loot_m4/cases/cus_loot_m4_case" unload="true"/>
+		<unit				path="units/pd2_mod_custom/cus_loot_m4/cases/cus_loot_m4_case_z_axis" unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_loot_m4/cases/cus_loot_m4_case_z_axis" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_loot_m4/cases/cus_loot_m4_case_z_axis" unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_loot_m4/cases/cus_loot_m4_case_z_axis" unload="true"/>
+		<cooked_physics		path="units/pd2_mod_custom/cus_loot_m4/cases/cus_loot_m4_case_z_axis" unload="true"/>
+		
+		<unit				path="units/pd2_mod_custom/cus_loot_m4/weapons/cus_loot_m4_spawn"			unload="true" load="true"/>
+		<unit				path="units/pd2_mod_custom/cus_loot_m4/weapons/cus_loot_m4_spawn_z_axis"	unload="true" load="true"/>
+		<object				path="units/pd2_mod_custom/cus_loot_m4/weapons/cus_loot_m4" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_loot_m4/weapons/cus_loot_m4" unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_loot_m4/weapons/cus_loot_m4" unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_loot_m4/weapons/cus_loot_m4" unload="true"/>
+		
+		<unit				path="units/pd2_mod_custom/cus_loot_m4/weapons/cus_loot_m4_static"			unload="true" load="true"/>
+		<unit				path="units/pd2_mod_custom/cus_loot_m4/weapons/cus_loot_m4_static_z_axis"	unload="true" load="true"/>
+		<object				path="units/pd2_mod_custom/cus_loot_m4/weapons/cus_loot_m4_static" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_loot_m4/weapons/cus_loot_m4_static" unload="true"/>
+		
+		<bnk from_db="true"	path="soundbanks/regular_sfx" unload="true"/>
+	</add>
+	<!-- END OF CUSTOM M4 WEAPON CASE -->
 	
 </table>

@@ -218,6 +218,48 @@
 		<table>
 			<unit_data _prev_pos="1200 -800 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="400 -400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_037" position="1200 0 0" rotation="0 0 0 -1" unit_id="100071"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="700 -200 -25" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_cube_1x1" name_id="mkp_int_cube_1x1_006" position="1000 -200 -25" rotation="0 0 0 -1" unit_id="100072"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="700 -100 -25" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 100 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_cube_1x1" name_id="mkp_int_cube_1x1_007" position="1000 -100 -25" rotation="0 0 0 -1" unit_id="100073"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="700 200 -25" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_cube_1x1" name_id="mkp_int_cube_1x1_008" position="1000 200 -25" rotation="0 0 0 -1" unit_id="100074"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="700 300 -25" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 500 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_cube_1x1" name_id="mkp_int_cube_1x1_009" position="1000 300 -25" rotation="0 0 0 -1" unit_id="100075"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="700 400 -25" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 600 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_cube_1x1" name_id="mkp_int_cube_1x1_010" position="1000 400 -25" rotation="0 0 0 -1" unit_id="100076"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1000 -200 -25" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_cube_1x1" name_id="mkp_int_cube_1x1_011" position="1300 -200 -25" rotation="0 0 0 -1" unit_id="100077"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1300 -100 -25" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_cube_1x1" name_id="mkp_int_cube_1x1_012" position="1300 -100 -25" rotation="0 0 0 -1" unit_id="100078"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1000 200 -25" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_cube_1x1" name_id="mkp_int_cube_1x1_013" position="1300 200 -25" rotation="0 0 0 -1" unit_id="100079"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1000 300 -25" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 500 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_cube_1x1" name_id="mkp_int_cube_1x1_014" position="1300 300 -25" rotation="0 0 0 -1" unit_id="100080"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1000 400 -25" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 600 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_cube_1x1" name_id="mkp_int_cube_1x1_015" position="1300 400 -25" rotation="0 0 0 -1" unit_id="100081"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1028.04 369.422 75" _prev_rot="0 0 1 -4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_show" name="units/pd2_mod_custom/cus_loot_m4/cases/cus_loot_m4_case" name_id="cus_loot_m4_case_001" position="1028.04 369.422 75" rotation="0 0 1 4.37114e-008" unit_id="100082"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1028.68 256.218 75" _prev_rot="0 0 1 -4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_show" name="units/pd2_mod_custom/cus_loot_m4/cases/cus_loot_m4_case_z_axis" name_id="cus_loot_m4_case_z_axis_001" position="1028.68 256.218 75" rotation="0 0 1 4.37114e-008" unit_id="100083"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1077.48 349.954 75" _prev_rot="0 0.707107 0 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show_enable" name="units/pd2_mod_custom/cus_loot_m4/weapons/cus_loot_m4_static" name_id="cus_loot_m4_static_001" position="1077.48 349.954 75" rotation="0 0 0 -1" unit_id="100084"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1080.53 241.935 75" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show_enable" name="units/pd2_mod_custom/cus_loot_m4/weapons/cus_loot_m4_static_z_axis" name_id="cus_loot_m4_static_z_axis_001" position="1080.53 241.935 75" rotation="0 0 0 -1" unit_id="100085"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
