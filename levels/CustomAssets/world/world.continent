@@ -237,7 +237,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="2150 -500 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/cus_thermal_gate/cus_thermal_gate_4x3m" name_id="cus_thermal_gate_4x3m_001" position="2150 -500 0" rotation="0 0 -0.707107 -0.707107" unit_id="100088"/>
+			<unit_data _prev_pos="2150 -500 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="set_normal_glass" name="units/pd2_mod_custom/cus_thermal_gate/cus_thermal_gate_4x3m" name_id="cus_thermal_gate_4x3m_001" position="2150 -500 0" rotation="0 0 -0.707107 -0.707107" unit_id="100088"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="0 -800 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_001" position="0 -800 0" rotation="0 0 0 -1" unit_id="100089"/>
@@ -252,7 +252,7 @@
 			<unit_data _prev_pos="2100 -300 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_pillar_1m_a" name_id="mkp_int_pillar_1m_a_003" position="2100 0 0" rotation="0 0 0 -1" unit_id="100002"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2150 -100 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/cus_thermal_gate/cus_thermal_gate_2x3m" name_id="cus_thermal_gate_2x3m_001" position="2150 -100 0" rotation="0 0 -0.707107 -0.707107" unit_id="100003"/>
+			<unit_data _prev_pos="2150 -100 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="set_tinted_glass" name="units/pd2_mod_custom/cus_thermal_gate/cus_thermal_gate_2x3m" name_id="cus_thermal_gate_2x3m_001" position="2150 -100 0" rotation="0 0 -0.707107 -0.707107" unit_id="100003"/>
 		</table>
 	</statics>
 	<values>

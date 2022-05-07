@@ -1149,7 +1149,7 @@
 					<entry key="depth" type="number" value="831"/>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
-					<entry key="height" type="number" value="500"/>
+					<entry key="height" type="number" value="1037"/>
 					<entry key="instigator" type="string" value="player"/>
 					<entry key="interval" type="number" value="0.1"/>
 					<entry key="on_executed" type="table">
@@ -1164,7 +1164,7 @@
 							<entry key="id" type="number" value="100045"/>
 						</entry>
 					</entry>
-					<entry key="position" type="vector3" value="2076.36 -345.506 100"/>
+					<entry key="position" type="vector3" value="2110.36 -345.506 366"/>
 					<entry key="radius" type="number" value="250"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="shape_type" type="string" value="box"/>
@@ -1172,7 +1172,7 @@
 					</entry>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_disabled_shapes" type="boolean" value="false"/>
-					<entry key="width" type="number" value="471"/>
+					<entry key="width" type="number" value="747"/>
 				</entry>
 			</entry>
 			<entry index="45" type="table">
