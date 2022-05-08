@@ -308,6 +308,33 @@
 		<table>
 			<unit_data _prev_pos="275 800 100" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show_enable" name="units/pd2_mod_custom/cus_single_keycard_panel/cus_single_keycard_panel" name_id="cus_single_keycard_panel_001" position="275 800 100" rotation="-0 0 -0 -1" unit_id="100069"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="1300 -200 250" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_cube_1x1" name_id="mkp_int_cube_1x1_016" position="1300 -200 250" rotation="-0 0 -0 -1" unit_id="100070"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1300 -200 250" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_cube_1x1" name_id="mkp_int_cube_1x1_017" position="1300 -100 250" rotation="0 0 0 -1" unit_id="100071"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1350 -150 250" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/cus_ceiling_security_camera/cus_ceiling_security_camera" name_id="cus_ceiling_security_camera_001" position="1350 -150 250" rotation="0 0 -0.707107 -0.707107" unit_id="100090"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1350 -50 250" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="deathwish" name="units/pd2_mod_custom/cus_ceiling_security_camera/cus_ceiling_security_camera" name_id="cus_ceiling_security_camera_002" position="1350 -50 250" rotation="0 0 -0.707107 -0.707107" unit_id="100091"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2100 0 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_pillar_1m_a" name_id="mkp_int_pillar_1m_a_004" position="200 0 0" rotation="0 0 0 -1" unit_id="100092"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 0 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_pillar_1m_a" name_id="mkp_int_pillar_1m_a_005" position="200 -100 0" rotation="0 0 0 -1" unit_id="100093"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 -200 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_pillar_1m_a" name_id="mkp_int_pillar_1m_a_006" position="200 -200 0" rotation="0 0 0 -1" unit_id="100094"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 -200 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_pillar_1m_a" name_id="mkp_int_pillar_1m_a_007" position="200 100 0" rotation="0 0 0 -1" unit_id="100095"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 -200 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_pillar_1m_a" name_id="mkp_int_pillar_1m_a_008" position="200 -300 0" rotation="0 0 0 -1" unit_id="100096"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

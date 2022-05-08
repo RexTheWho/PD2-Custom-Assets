@@ -245,12 +245,10 @@
 		<model				path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case"				unload="true"/>
 		<material_config	path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case"				unload="true"/>
 		<sequence_manager	path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case"				unload="true"/>
-		<cooked_physics		path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case"				unload="true"/>
 		<unit				path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case_z_axis"		unload="true"/>
 		<object				path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case_z_axis"		unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case_z_axis"		unload="true"/>
 		<sequence_manager	path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case_z_axis"		unload="true"/>
-		<cooked_physics		path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case_z_axis"		unload="true"/>
 		
 		<unit				path="units/pd2_mod_custom/cus_loot_grenades/weapons/cus_loot_grenades_spawn"			unload="true" load="true"/>
 		<unit				path="units/pd2_mod_custom/cus_loot_grenades/weapons/cus_loot_grenades_spawn_z_axis"	unload="true" load="true"/>
@@ -279,5 +277,22 @@
 		<dds				path="units/pd2_mod_custom/cus_prop_street_barrier_fence_art/cus_prop_street_barrier_fence_art_nm"			unload="true"/>
 	</add>
 	<!-- END OF CUSTOM STREET BARRIER FENCE ART -->
+
+	<!-- START OF CUSTOM CEILING CAMERA -->
+	<add unload_on_restart="true">
+		<unit				path="units/pd2_mod_custom/cus_ceiling_security_camera/cus_ceiling_security_camera"				unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_ceiling_security_camera/cus_ceiling_security_camera"				unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_ceiling_security_camera/cus_ceiling_security_camera"				unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_ceiling_security_camera/cus_ceiling_security_camera"				unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_ceiling_security_camera/cus_ceiling_security_camera"				unload="true"/>
+		<dds				path="units/pd2_mod_custom/cus_ceiling_security_camera/auc_camera_glass_titan_df"				unload="true"/>
+		<dds				path="units/pd2_mod_custom/cus_ceiling_security_camera/auc_camera_light_blue"					unload="true"/>
+		<dds				path="units/pd2_mod_custom/cus_ceiling_security_camera/auc_camera_light_red"					unload="true"/>
+		<dds				path="units/pd2_mod_custom/cus_ceiling_security_camera/auc_camera_sticker_blackmesa_df"			unload="true"/>
+		
+		<effect				from_db="true"	path="effects/particles/dest/security_camera_dest" unload="true"/>
+		<bnk				from_db="true"	path="soundbanks/regular_sfx" unload="true"/>
+	</add>
+	<!-- END OF CUSTOM CEILING CAMERA -->
 	
 </table>
