@@ -305,6 +305,9 @@
 		<table>
 			<unit_data _prev_pos="1000 800 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_barrier_fence/str_prop_street_barrier_fence" name_id="str_prop_street_barrier_fence_001" position="1000 800 0" rotation="0 0 0 -1" unit_id="100068"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="275 800 100" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show_enable" name="units/pd2_mod_custom/cus_single_keycard_panel/cus_single_keycard_panel" name_id="cus_single_keycard_panel_001" position="275 800 100" rotation="-0 0 -0 -1" unit_id="100069"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

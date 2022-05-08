@@ -27,6 +27,24 @@
 	</add>
 	<!-- END OF CUSTOM DOUBLE KEYCARD PANEL -->
 
+	<!-- START OF CUSTOM SINGLE KEYCARD PANEL -->
+	<add unload_on_restart="true">
+		<unit				path="units/pd2_mod_custom/cus_single_keycard_panel/cus_single_keycard_panel"	unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_single_keycard_panel/cus_single_keycard_panel"	unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_single_keycard_panel/cus_single_keycard_panel"	unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_single_keycard_panel/cus_single_keycard_panel"	unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_single_keycard_panel/cus_single_keycard_panel"	unload="true"/>
+		<dds				path="units/pd2_mod_custom/cus_single_keycard_panel/screen_df"					unload="true"/>
+		<dds				path="units/pd2_mod_custom/cus_single_keycard_panel/screen_glow"				unload="true"/>
+		<unit				path="units/payday2/props/gen_prop_bank_atm_standing/gen_prop_bank_atm_jammer"	unload="true"  from_db="true"/>
+		<object				path="units/payday2/props/gen_prop_bank_atm_standing/gen_prop_bank_atm_jammer"	unload="true"  from_db="true"/>
+		<model				path="units/payday2/props/gen_prop_bank_atm_standing/gen_prop_bank_atm_jammer"	unload="true"  from_db="true"/>
+		<material_config	path="units/payday2/props/gen_prop_bank_atm_standing/gen_prop_bank_atm_jammer"	unload="true"  from_db="true"/>
+		<sequence_manager	path="units/payday2/props/gen_prop_bank_atm_standing/gen_prop_bank_atm_jammer"	unload="true"  from_db="true"/>
+		<cooked_physics		path="units/payday2/props/gen_prop_bank_atm_standing/gen_prop_bank_atm_jammer"	unload="true"  from_db="true"/>
+	</add>
+	<!-- END OF CUSTOM SINGLE KEYCARD PANEL -->
+
 	<!-- START OF CUSTOM LOOT PAINTING -->
 	<add unload_on_restart="true">
 		<unit				path="units/pd2_mod_custom/cus_loot_painting/cus_loot_painting" unload="true" load="true"/>
