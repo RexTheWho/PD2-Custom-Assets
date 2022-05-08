@@ -41,14 +41,14 @@
 		
 		<sequence editable_state="true" name="'anim_open_door'" triggable="true">
 			<animation_group enabled="true" from="0/30" name="'anim_lid'" to="30/30" speed="1" />
-			<sound action="'play'" event="'bar_crowbar_end'" object="'anim_lid'"/>
+			<sound action="'play'" event="'bar_crowbar_end'" object="'a_lid'"/>
 			<run_sequence name="'done_opened'" start_time="31/30"/>
 			<run_sequence name="'activate_door'" start_time="31/30"/>
 		</sequence>
 		
 		<sequence editable_state="true" name="'anim_close_door'" triggable="true">
 			<animation_group enabled="true" from="30/30" name="'anim_lid'" to="0/30" speed="-1" />
-			<sound action="'play'" event="'bar_crowbar_end'" object="'anim_lid'"/>
+			<sound action="'play'" event="'bar_crowbar_end'" object="'a_lid'" start_time="28/30"/>
 			<run_sequence name="'done_closed'" start_time="31/30"/>
 			<run_sequence name="'activate_door'" start_time="31/30"/>
 		</sequence>
