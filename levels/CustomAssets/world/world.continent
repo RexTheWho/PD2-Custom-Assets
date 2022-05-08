@@ -129,9 +129,6 @@
 			<unit_data _prev_pos="742.419 170.762 0" _prev_rot="-0.000185925 6.49653e-005 -4.4779e-005 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/cus_explosive_propane_tank/cus_explosive_propane_tank" name_id="cus_explosive_propane_tank_003" position="742.419 170.762 0" rotation="-0.000185925 6.49653e-005 -4.4779e-005 -1" unit_id="100049"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="500 -700 0" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="activate_door" name="units/pd2_mod_custom/cus_bodydump_band_flightcase/cus_bodydump_band_flightcase" name_id="cus_bodydump_band_flightcase_001" position="600 -700 0" rotation="0 0 1 4.37114e-008" unit_id="100050"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="800 -800 0" _prev_rot="-0.270598 0.653281 0.653282 -0.270598" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_026" position="800 -800 0" rotation="0 0.707107 0.707107 -2.98023e-008" unit_id="100051"/>
 		</table>
 		<table>
@@ -295,6 +292,12 @@
 					</shape>
 				</editable_gui>
 			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 -700 0" _prev_rot="0 0 1 -4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="activate_door" name="units/pd2_mod_custom/cus_bodydump_crate/cus_bodydump_crate" name_id="cus_bodydump_crate_001" position="800 -800 0" rotation="0 0 1 -4.37114e-008" unit_id="100066"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="600 -700 0" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="200 -1.74846e-005 0" local_rot="0 0 -8.74228e-008 1" mesh_variation="show_contour" name="units/pd2_mod_custom/cus_bodydump_crate/cus_bodydump_crate" name_id="cus_bodydump_crate_002" position="600 -800 0" rotation="0 0 1 4.37114e-008" unit_id="100050"/>
 		</table>
 	</statics>
 	<values>

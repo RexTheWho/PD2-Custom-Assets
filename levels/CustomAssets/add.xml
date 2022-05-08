@@ -144,6 +144,16 @@
 	</add>
 	<!-- END OF CUSTOM BODY CASE -->
 
+	<!-- START OF CUSTOM BODY CRATE -->
+	<add unload_on_restart="true">
+		<unit				path="units/pd2_mod_custom/cus_bodydump_crate/cus_bodydump_crate" unload="true" load="true"/>
+		<object				path="units/pd2_mod_custom/cus_bodydump_crate/cus_bodydump_crate" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_bodydump_crate/cus_bodydump_crate" unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_bodydump_crate/cus_bodydump_crate" unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_bodydump_crate/cus_bodydump_crate" unload="true"/>
+	</add>
+	<!-- END OF CUSTOM BODY CRATE -->
+
 	<!-- START OF CUSTOM LOOT WEED -->
 	<add unload_on_restart="true">
 		<unit				path="units/pd2_mod_custom/cus_loot_weed/cus_loot_weed" unload="true" load="true"/>
