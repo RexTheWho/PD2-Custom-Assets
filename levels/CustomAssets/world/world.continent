@@ -299,6 +299,12 @@
 		<table>
 			<unit_data _prev_pos="600 -700 0" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="200 -1.74846e-005 0" local_rot="0 0 -8.74228e-008 1" mesh_variation="show_contour" name="units/pd2_mod_custom/cus_bodydump_crate/cus_bodydump_crate" name_id="cus_bodydump_crate_002" position="600 -800 0" rotation="0 0 1 4.37114e-008" unit_id="100050"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="1000 800 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_prop_street_barrier_fence_art/cus_prop_street_barrier_fence_art" name_id="cus_prop_street_barrier_fence_art_001" position="1000 800 0" rotation="0 0 0 -1" unit_id="100067"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1000 800 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_barrier_fence/str_prop_street_barrier_fence" name_id="str_prop_street_barrier_fence_001" position="1000 800 0" rotation="0 0 0 -1" unit_id="100068"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
