@@ -209,5 +209,35 @@
 		<model				path="units/pd2_mod_custom/cus_thermal_gate/cus_thermal_gate_2x3m" unload="true"/>
 	</add>
 	<!-- END OF CUSTOM THERMAL GATE -->
+
+	<!-- START OF CUSTOM GRENADE LOOT CASE -->
+	<add unload_on_restart="true">
+		<unit				path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case"				unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case"				unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case"				unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case"				unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case"				unload="true"/>
+		<cooked_physics		path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case"				unload="true"/>
+		<unit				path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case_z_axis"		unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case_z_axis"		unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case_z_axis"		unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case_z_axis"		unload="true"/>
+		<cooked_physics		path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case_z_axis"		unload="true"/>
+		
+		<unit				path="units/pd2_mod_custom/cus_loot_grenades/weapons/cus_loot_grenades_spawn"			unload="true" load="true"/>
+		<unit				path="units/pd2_mod_custom/cus_loot_grenades/weapons/cus_loot_grenades_spawn_z_axis"	unload="true" load="true"/>
+		<object				path="units/pd2_mod_custom/cus_loot_grenades/weapons/cus_loot_grenades"					unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_loot_grenades/weapons/cus_loot_grenades"					unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_loot_grenades/weapons/cus_loot_grenades"					unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_loot_grenades/weapons/cus_loot_grenades"					unload="true"/>
+		
+		<unit				path="units/pd2_mod_custom/cus_loot_grenades/weapons/cus_loot_grenades_static"			unload="true" load="true"/>
+		<unit				path="units/pd2_mod_custom/cus_loot_grenades/weapons/cus_loot_grenades_static_z_axis"	unload="true" load="true"/>
+		<object				path="units/pd2_mod_custom/cus_loot_grenades/weapons/cus_loot_grenades_static"			unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_loot_grenades/weapons/cus_loot_grenades_static"			unload="true"/>
+		
+		<bnk from_db="true"	path="soundbanks/regular_sfx" unload="true"/>
+	</add>
+	<!-- END OF CUSTOM GRENADE LOOT CASE -->
 	
 </table>

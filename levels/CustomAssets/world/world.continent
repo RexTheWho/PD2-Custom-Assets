@@ -254,6 +254,48 @@
 		<table>
 			<unit_data _prev_pos="2150 -100 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="set_tinted_glass" name="units/pd2_mod_custom/cus_thermal_gate/cus_thermal_gate_2x3m" name_id="cus_thermal_gate_2x3m_001" position="2150 -100 0" rotation="0 0 -0.707107 -0.707107" unit_id="100003"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="1330.32 459.792 75" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_show" name="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case" name_id="cus_loot_grenades_case_001" position="1330.32 459.792 75" rotation="0 0 0.707107 -0.707107" unit_id="100042"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1335.5 295.453 75" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_show" name="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case_z_axis" name_id="cus_loot_grenades_case_z_axis_001" position="1335.5 295.453 75" rotation="0 0 0.707107 -0.707107" unit_id="100043"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1327.63 399.474 75" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show_enable" name="units/pd2_mod_custom/cus_loot_grenades/weapons/cus_loot_grenades_static" name_id="cus_loot_grenades_static_001" position="1327.63 399.474 75" rotation="0 0 0.707107 -0.707107" unit_id="100044"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1334.96 232.874 75" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show_enable" name="units/pd2_mod_custom/cus_loot_grenades/weapons/cus_loot_grenades_static_z_axis" name_id="cus_loot_grenades_static_z_axis_001" position="1334.96 232.874 75" rotation="0 0 0.707107 -0.707107" unit_id="100045"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1299 378.938 62.901" _prev_rot="-0.5 0.5 0.5 -0.5" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_003" position="1299 478.938 62.901" rotation="-0.5 0.5 0.5 -0.5" unit_id="100062">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="1.41" render_template="diffuse_vc_decal" text="Grenade Case" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="1299 313.938 62.901" _prev_rot="-0.5 0.5 0.5 -0.5" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_004" position="1299 313.938 62.901" rotation="-0.5 0.5 0.5 -0.5" unit_id="100064">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="0.73796" render_template="diffuse_vc_decal" text="/Forward Interaction Only" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
