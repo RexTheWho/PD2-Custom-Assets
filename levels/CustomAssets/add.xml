@@ -1,4 +1,4 @@
-<table directory="assets">
+<table directory="assets" unload_on_restart="true">
 
 
 	<!-- Beardlib was being a baby on the test map, ignore this.-->
@@ -9,7 +9,7 @@
 	</add>
 
 	<!---->
-	<add unload_on_restart="true">
+	<add>
 		<unit				path="units/pd2_mod_custom/cus_winch_device/cus_winch_device" unload="true" load="true"/>
 		<object				path="units/pd2_mod_custom/cus_winch_device/cus_winch_device" unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_winch_device/cus_winch_device" unload="true"/>
@@ -18,7 +18,7 @@
 	</add>
 
 	<!-- START OF CUSTOM DOUBLE KEYCARD PANEL -->
-	<add unload_on_restart="true">
+	<add>
 		<unit				path="units/pd2_mod_custom/cus_double_keycard_panel/cus_double_keycard_panel" unload="true" load="true"/>
 		<object				path="units/pd2_mod_custom/cus_double_keycard_panel/cus_double_keycard_panel" unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_double_keycard_panel/cus_double_keycard_panel" unload="true"/>
@@ -28,7 +28,7 @@
 	<!-- END OF CUSTOM DOUBLE KEYCARD PANEL -->
 
 	<!-- START OF CUSTOM SINGLE KEYCARD PANEL -->
-	<add unload_on_restart="true">
+	<add>
 		<unit				path="units/pd2_mod_custom/cus_single_keycard_panel/cus_single_keycard_panel"	unload="true"/>
 		<object				path="units/pd2_mod_custom/cus_single_keycard_panel/cus_single_keycard_panel"	unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_single_keycard_panel/cus_single_keycard_panel"	unload="true"/>
@@ -46,7 +46,7 @@
 	<!-- END OF CUSTOM SINGLE KEYCARD PANEL -->
 
 	<!-- START OF CUSTOM LOOT PAINTING -->
-	<add unload_on_restart="true">
+	<add>
 		<unit				path="units/pd2_mod_custom/cus_loot_painting/cus_loot_painting" unload="true" load="true"/>
 		<object				path="units/pd2_mod_custom/cus_loot_painting/cus_loot_painting" unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_loot_painting/cus_loot_painting" unload="true"/>
@@ -58,7 +58,7 @@
 	<!-- END OF CUSTOM LOOT PAINTING -->
 
 	<!-- START OF CUSTOM WINDOW PLANKS -->
-	<add unload_on_restart="true">
+	<add>
 		<unit				path="units/pd2_mod_custom/cus_better_window_planks/cus_better_window_planks" unload="true" load="true"/>
 		<object				path="units/pd2_mod_custom/cus_better_window_planks/cus_better_window_planks" unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_better_window_planks/cus_better_window_planks" unload="true"/>
@@ -73,7 +73,7 @@
 	<!-- END OF CUSTOM WINDOW PLANKS -->
 
 	<!-- START OF CUSTOM CEASAR LOOT -->
-	<add unload_on_restart="true">
+	<add>
 		<unit				path="units/pd2_mod_custom/cus_loot_golden_ceasar/cus_loot_golden_ceasar" unload="true" load="true"/>
 		<object				path="units/pd2_mod_custom/cus_loot_golden_ceasar/cus_loot_golden_ceasar" unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_loot_golden_ceasar/cus_loot_golden_ceasar" unload="true"/>
@@ -83,7 +83,7 @@
 	<!-- END OF CUSTOM CEASAR LOOT -->
 
 	<!-- START OF CUSTOM BREAKABLE SERVERS -->
-	<add unload_on_restart="true">
+	<add>
 		<unit				path="units/pd2_mod_custom/cus_server_rack_breakable/cus_server_rack_breakable" unload="true" load="true"/>
 		<object				path="units/pd2_mod_custom/cus_server_rack_breakable/cus_server_rack_breakable" unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_server_rack_breakable/cus_server_rack_breakable" unload="true"/>
@@ -97,7 +97,7 @@
 	<!-- END OF CUSTOM BREAKABLE SERVERS -->
 
 	<!-- START OF CUSTOM BURNABLE MONEYBAG PILE -->
-	<add unload_on_restart="true">
+	<add>
 		<unit				path="units/pd2_mod_custom/cus_moneybag_pile_burnable/cus_moneybag_pile_burnable" unload="true" load="true"/>
 		<object				path="units/pd2_mod_custom/cus_moneybag_pile_burnable/cus_moneybag_pile_burnable" unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_moneybag_pile_burnable/cus_moneybag_pile_burnable" unload="true"/>
@@ -110,7 +110,7 @@
 	<!-- END OF CUSTOM BURNABLE MONEYBAG PILE -->
 
 	<!-- START OF CUSTOM SHUTTER 1x1 -->
-	<add unload_on_restart="true">
+	<add>
 		<unit				path="units/pd2_mod_custom/cus_shutter_1x1m/cus_shutter_1x1m" unload="true" load="true"/>
 		<object				path="units/pd2_mod_custom/cus_shutter_1x1m/cus_shutter_1x1m" unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_shutter_1x1m/cus_shutter_1x1m" unload="true"/>
@@ -120,7 +120,7 @@
 	<!-- END OF CUSTOM SHUTTER 1x1 -->
 
 	<!-- START OF CUSTOM CRATE BIG -->
-	<add unload_on_restart="true">
+	<add>
 		<unit				path="units/pd2_mod_custom/cus_loot_crate_big/cus_loot_crate_big" unload="true" load="true"/>
 		<object				path="units/pd2_mod_custom/cus_loot_crate_big/cus_loot_crate_big" unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_loot_crate_big/cus_loot_crate_big" unload="true"/>
@@ -130,7 +130,7 @@
 	<!-- END OF CUSTOM CRATE BIG -->
 
 	<!-- START OF CUSTOM CRATE BIG -->
-	<add unload_on_restart="true">
+	<add>
 		<unit				path="units/pd2_mod_custom/cus_interactable_door_wooden_a/cus_interactable_door_wooden_a" unload="true" load="true"/>
 		<object				path="units/pd2_mod_custom/cus_interactable_door_wooden_a/cus_interactable_door_wooden_a" unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_interactable_door_wooden_a/cus_interactable_door_wooden_a" unload="true"/>
@@ -140,7 +140,7 @@
 	<!-- END OF CUSTOM CRATE BIG -->
 
 	<!-- START OF CUSTOM PROPANE AND PROPANE ACCESSORIES -->
-	<add unload_on_restart="true">
+	<add>
 		<unit				path="units/pd2_mod_custom/cus_explosive_propane_tank/cus_explosive_propane_tank" unload="true" load="true"/>
 		<object				path="units/pd2_mod_custom/cus_explosive_propane_tank/cus_explosive_propane_tank" unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_explosive_propane_tank/cus_explosive_propane_tank" unload="true"/>
@@ -153,7 +153,7 @@
 	<!-- END OF CUSTOM PROPANE AND PROPANE ACCESSORIES -->
 
 	<!-- START OF CUSTOM BODY CASE -->
-	<add unload_on_restart="true">
+	<add>
 		<unit				path="units/pd2_mod_custom/cus_bodydump_band_flightcase/cus_bodydump_band_flightcase" unload="true" load="true"/>
 		<object				path="units/pd2_mod_custom/cus_bodydump_band_flightcase/cus_bodydump_band_flightcase" unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_bodydump_band_flightcase/cus_bodydump_band_flightcase" unload="true"/>
@@ -163,7 +163,7 @@
 	<!-- END OF CUSTOM BODY CASE -->
 
 	<!-- START OF CUSTOM BODY CRATE -->
-	<add unload_on_restart="true">
+	<add>
 		<unit				path="units/pd2_mod_custom/cus_bodydump_crate/cus_bodydump_crate" unload="true" load="true"/>
 		<object				path="units/pd2_mod_custom/cus_bodydump_crate/cus_bodydump_crate" unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_bodydump_crate/cus_bodydump_crate" unload="true"/>
@@ -173,7 +173,7 @@
 	<!-- END OF CUSTOM BODY CRATE -->
 
 	<!-- START OF CUSTOM LOOT WEED -->
-	<add unload_on_restart="true">
+	<add>
 		<unit				path="units/pd2_mod_custom/cus_loot_weed/cus_loot_weed" unload="true" load="true"/>
 		<object				path="units/pd2_mod_custom/cus_loot_weed/cus_loot_weed" unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_loot_weed/cus_loot_weed" unload="true"/>
@@ -184,7 +184,7 @@
 	<!-- END OF CUSTOM LOOT WEED -->
 
 	<!-- START OF CUSTOM WIRE -->
-	<add unload_on_restart="true">
+	<add>
 		<unit				path="units/pd2_mod_custom/cus_cables/cus_cables" unload="true" load="true"/>
 		<object				path="units/pd2_mod_custom/cus_cables/cus_cables" unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_cables/cus_cables" unload="true"/>
@@ -194,7 +194,7 @@
 	<!-- END OF CUSTOM WIRE -->
 
 	<!-- START OF CUSTOM M4 WEAPON CASE -->
-	<add unload_on_restart="true">
+	<add>
 		<unit				path="units/pd2_mod_custom/cus_loot_m4/cases/cus_loot_m4_case" unload="true"/>
 		<object				path="units/pd2_mod_custom/cus_loot_m4/cases/cus_loot_m4_case" unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_loot_m4/cases/cus_loot_m4_case" unload="true"/>
@@ -225,7 +225,7 @@
 	
 	
 	<!-- START OF CUSTOM THERMAL GATE -->
-	<add unload_on_restart="true">
+	<add>
 		<material_config	path="units/pd2_mod_custom/cus_thermal_gate/cus_thermal_gate_shared" unload="true"/>
 		<material_config	path="units/pd2_mod_custom/cus_thermal_gate/cus_thermal_gate_shared_tinted" unload="true"/>
 		<sequence_manager	path="units/pd2_mod_custom/cus_thermal_gate/cus_thermal_gate_shared" unload="true"/>
@@ -239,7 +239,7 @@
 	<!-- END OF CUSTOM THERMAL GATE -->
 
 	<!-- START OF CUSTOM GRENADE LOOT CASE -->
-	<add unload_on_restart="true">
+	<add>
 		<unit				path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case"				unload="true"/>
 		<object				path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case"				unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_loot_grenades/cases/cus_loot_grenades_case"				unload="true"/>
@@ -267,7 +267,7 @@
 	<!-- END OF CUSTOM GRENADE LOOT CASE -->
 
 	<!-- START OF CUSTOM STREET BARRIER FENCE ART -->
-	<add unload_on_restart="true">
+	<add>
 		<unit				path="units/pd2_mod_custom/cus_prop_street_barrier_fence_art/cus_prop_street_barrier_fence_art"				unload="true"/>
 		<object				path="units/pd2_mod_custom/cus_prop_street_barrier_fence_art/cus_prop_street_barrier_fence_art"				unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_prop_street_barrier_fence_art/cus_prop_street_barrier_fence_art"				unload="true"/>
@@ -279,7 +279,7 @@
 	<!-- END OF CUSTOM STREET BARRIER FENCE ART -->
 
 	<!-- START OF CUSTOM CEILING CAMERA -->
-	<add unload_on_restart="true">
+	<add>
 		<unit				path="units/pd2_mod_custom/cus_ceiling_security_camera/cus_ceiling_security_camera"				unload="true"/>
 		<object				path="units/pd2_mod_custom/cus_ceiling_security_camera/cus_ceiling_security_camera"				unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_ceiling_security_camera/cus_ceiling_security_camera"				unload="true"/>
@@ -294,5 +294,41 @@
 		<bnk				from_db="true"	path="soundbanks/regular_sfx" unload="true"/>
 	</add>
 	<!-- END OF CUSTOM CEILING CAMERA -->
+
+	<!-- START OF CUSTOM EDITOR CHAIR VEHICLE -->
+	<!-- UNFINISHED!!!!!! -->
+	<!-- Requires Tweakdata: EditorSeat_VehTweakData -->
+	<!-- <add> -->
+		<!-- <unit								path="units/pd2_mod_custom/cus_seat_vehicle/cus_seat_vehicle"	unload="true"/> -->
+		<!-- <object								path="units/pd2_mod_custom/cus_seat_vehicle/cus_seat_vehicle"	unload="true"/> -->
+		<!-- <model								path="units/pd2_mod_custom/cus_seat_vehicle/cus_seat_vehicle"	unload="true"/> -->
+		<!-- <sequence_manager					path="units/pd2_mod_custom/cus_seat_vehicle/cus_seat_vehicle"	unload="true"/> -->
+		<!-- <material_config	from_db="true"	path="core/material_configs/hub_elements"						unload="true"/> -->
+	<!-- </add> -->
+	<!-- END OF CUSTOM EDITOR CHAIR VEHICLE -->
+
+	<!-- START OF CUSTOM ROAD TILES -->
+	<add>
+		<unit				path="units/pd2_mod_custom/cus_arch_str_road/str_ext_road_16x16m_matgrp_manhole"			unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_arch_str_road/str_ext_road_16x16m_matgrp_manhole"			unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_arch_str_road/str_ext_road_16x16m_matgrp_manhole"			unload="true"/>
+		<cooked_physics		path="units/pd2_mod_custom/cus_arch_str_road/str_ext_road_16x16m_matgrp_manhole"			unload="true"/>
+		
+		<unit				path="units/pd2_mod_custom/cus_arch_str_road/str_ext_road_16x16m_matgrp_parking_manhole"	unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_arch_str_road/str_ext_road_16x16m_matgrp_parking_manhole"	unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_arch_str_road/str_ext_road_16x16m_matgrp_parking_manhole"	unload="true"/>
+		<cooked_physics		path="units/pd2_mod_custom/cus_arch_str_road/str_ext_road_16x16m_matgrp_parking_manhole"	unload="true"/>
+		
+		<unit				path="units/pd2_mod_custom/cus_arch_str_road/str_ext_road_16x16m_tcross_matgrp_manhole"		unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_arch_str_road/str_ext_road_16x16m_tcross_matgrp_manhole"		unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_arch_str_road/str_ext_road_16x16m_tcross_matgrp_manhole"		unload="true"/>
+		<cooked_physics		path="units/pd2_mod_custom/cus_arch_str_road/str_ext_road_16x16m_tcross_matgrp_manhole"		unload="true"/>
+		
+		<sequence_manager	path="units/pd2_mod_custom/cus_arch_str_road/sequence_manager"								unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_arch_str_road/material_1"									unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_arch_str_road/material_1_wet"								unload="true"/>
+		<material_config	path="units/pd2_mod_custom/cus_arch_str_road/material_2"									unload="true"/>
+	</add>
+	<!-- END OF CUSTOM ROAD TILES -->
 	
 </table>

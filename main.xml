@@ -8,6 +8,7 @@
 		<hooks directory="hooks">
 			<hook file="InteractionTweakData.lua" source_file="lib/tweak_data/interactiontweakdata"/>
 			<hook file="CarryTweakData.lua" source_file="lib/tweak_data/carrytweakdata"/>
+			<hook file="EditorSeat_VehTweakData.lua" source_file="lib/tweak_data/vehicletweakdata"/>
 		</hooks>
 		<packages>
 			<value_node value="levels/instances/unique/sub_sewer_sidespawn/world/world"/>
