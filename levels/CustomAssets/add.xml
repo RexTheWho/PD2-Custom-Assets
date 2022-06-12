@@ -324,6 +324,10 @@
 		<model				path="units/pd2_mod_custom/cus_arch_str_road/str_ext_road_16x16m_tcross_matgrp_manhole"		unload="true"/>
 		<cooked_physics		path="units/pd2_mod_custom/cus_arch_str_road/str_ext_road_16x16m_tcross_matgrp_manhole"		unload="true"/>
 		
+		<unit				path="units/pd2_mod_custom/cus_arch_str_road/str_ext_road_16x16m_lbend_matgrp"				unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_arch_str_road/str_ext_road_16x16m_lbend_matgrp"				unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_arch_str_road/str_ext_road_16x16m_lbend_matgrp"				unload="true"/>
+		
 		<sequence_manager	path="units/pd2_mod_custom/cus_arch_str_road/sequence_manager"								unload="true"/>
 		<material_config	path="units/pd2_mod_custom/cus_arch_str_road/material_1"									unload="true"/>
 		<material_config	path="units/pd2_mod_custom/cus_arch_str_road/material_1_wet"								unload="true"/>
