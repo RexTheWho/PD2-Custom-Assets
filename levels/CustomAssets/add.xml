@@ -353,6 +353,15 @@
 		<unit				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_tiny" unload="true"/>
 		<object				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_tiny" unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_tiny" unload="true"/>
+		<unit				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_1" unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_1" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_1" unload="true"/>
+		<unit				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_2" unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_2" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_2" unload="true"/>
+		<unit				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_3" unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_3" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_3" unload="true"/>
 	</add>
 	<!-- END OF CUSTOM HCM WINDOW GLOWS -->
 	
