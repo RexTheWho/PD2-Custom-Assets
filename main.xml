@@ -17,6 +17,7 @@
 			<value_node value="levels/instances/unique/fex/fex_winecellar_gate_button/world/world"/>
 			<value_node value="levels/instances/unique/are_exfil_puzzle/world"/>
 			<value_node value="levels/narratives/locke/vit/collision/collision"/>
+			<value_node value="levels/narratives/e_framing_frame/stage_3/world/world"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">

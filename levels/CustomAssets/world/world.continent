@@ -347,6 +347,69 @@
 		<table>
 			<unit_data _prev_pos="-1600 2400 0" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" material="units/pd2_mod_custom/cus_arch_str_road/material_2" material_variation="units/pd2_mod_custom/cus_arch_str_road/material_2" mesh_variation="" name="units/pd2_mod_custom/cus_arch_str_road/str_ext_road_16x16m_lbend_matgrp" name_id="str_ext_road_16x16m_lbend_matgrp_001" position="-1600 2400 0" rotation="-0 0 -0 -1" unit_id="100100"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="-1600 4000 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 -1600" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x16m_b" name_id="hcm_ext_8x16m_b_001" position="-1600 4000 0" rotation="0 0 0.707107 -0.707107" unit_id="100101"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1600 4000 800" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 -800" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x16m_b" name_id="hcm_ext_8x16m_b_002" position="-1600 4000 800" rotation="0 0 0.707107 -0.707107" unit_id="100102"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1600 4000 1600" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x16m_b" name_id="hcm_ext_8x16m_b_003" position="-1600 4000 1600" rotation="0 0 0.707107 -0.707107" unit_id="100103"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 4000 1600" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x16m_b" name_id="hcm_ext_8x16m_b_004" position="0 4000 1600" rotation="0 0 0.707107 -0.707107" unit_id="100104"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 4000 800" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x16m_b" name_id="hcm_ext_8x16m_b_005" position="0 4000 800" rotation="0 0 0.707107 -0.707107" unit_id="100105"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 4000 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x16m_b" name_id="hcm_ext_8x16m_b_006" position="0 4000 0" rotation="0 0 0.707107 -0.707107" unit_id="100106"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 4000 1600" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x16m_b" name_id="hcm_ext_8x16m_b_007" position="1600 4000 1600" rotation="0 0 0.707107 -0.707107" unit_id="100107"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 4000 800" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x16m_b" name_id="hcm_ext_8x16m_b_008" position="1600 4000 800" rotation="0 0 0.707107 -0.707107" unit_id="100108"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 4000 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 -1600" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x16m_b" name_id="hcm_ext_8x16m_b_009" position="1600 4000 0" rotation="0 0 0.707107 -0.707107" unit_id="100109"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3200 4000 1600" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x16m_b" name_id="hcm_ext_8x16m_b_010" position="3200 4000 1600" rotation="0 0 0 -1" unit_id="100110"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3200 4000 800" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 -800" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x16m_b" name_id="hcm_ext_8x16m_b_011" position="3200 4000 800" rotation="0 0 0 -1" unit_id="100111"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3200 4000 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 -1600" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x16m_b" name_id="hcm_ext_8x16m_b_012" position="3200 4000 0" rotation="0 0 0 -1" unit_id="100112"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1600 4000 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_1" name_id="cus_hcm_window_glows_1_001" position="-1600 4000 0" rotation="0 0 0.707107 -0.707107" unit_id="100113"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1600 4000 800" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 800" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_2" name_id="cus_hcm_window_glows_2_001" position="-1600 4000 800" rotation="0 0 0.707107 -0.707107" unit_id="100114"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1600 4000 1600" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 1600" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_3" name_id="cus_hcm_window_glows_3_001" position="-1600 4000 1600" rotation="0 0 0.707107 -0.707107" unit_id="100115"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 4000 2400" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_1" name_id="cus_hcm_window_glows_1_002" position="0 4000 800" rotation="0 0 0.707107 -0.707107" unit_id="100116"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 4000 1600" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_2" name_id="cus_hcm_window_glows_2_002" position="0 4000 1600" rotation="0 0 0.707107 -0.707107" unit_id="100117"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 4000 1600" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 -800" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_3" name_id="cus_hcm_window_glows_3_002" position="0 4000 0" rotation="0 0 0.707107 -0.707107" unit_id="100118"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 4000 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_1" name_id="cus_hcm_window_glows_1_003" position="1600 4000 800" rotation="0 0 0.707107 -0.707107" unit_id="100119"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 4000 800" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 800" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_2" name_id="cus_hcm_window_glows_2_003" position="1600 4000 1600" rotation="0 0 0.707107 -0.707107" unit_id="100120"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 4000 2400" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_3" name_id="cus_hcm_window_glows_3_003" position="1600 4000 0" rotation="0 0 0.707107 -0.707107" unit_id="100121"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
