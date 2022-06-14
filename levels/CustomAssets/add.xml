@@ -366,5 +366,17 @@
 		<model				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_3" unload="true"/>
 	</add>
 	<!-- END OF CUSTOM HCM WINDOW GLOWS -->
+
+	<!-- START OF CUSTOM HCM WINDOW GLOWS -->
+	<add>
+		<material_config	path="units/pd2_mod_custom/cus_pex_carpark/cus_pex_carpark" unload="true"/>
+		<unit				path="units/pd2_mod_custom/cus_pex_carpark/cus_pex_carpark" unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_pex_carpark/cus_pex_carpark" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_pex_carpark/cus_pex_carpark" unload="true"/>
+		<unit				path="units/pd2_mod_custom/cus_pex_carpark/cus_pex_carpark_no_gate" unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_pex_carpark/cus_pex_carpark_no_gate" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_pex_carpark/cus_pex_carpark_no_gate" unload="true"/>
+	</add>
+	<!-- END OF CUSTOM HCM WINDOW GLOWS -->
 	
 </table>

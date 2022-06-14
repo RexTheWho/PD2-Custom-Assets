@@ -452,6 +452,15 @@
 		<table>
 			<unit_data _prev_pos="4800 4000 1600" _prev_rot="0 0 1 -4.37114e-008" continent="world" instance_data="false" local_pos="0 -800 0" local_rot="-0.707107 -3.55271e-015 3.55271e-015 -0.707107" name="units/payday2/architecture/hcm/hcm_ext_8x16m_e" name_id="hcm_ext_8x16m_e_003" position="4800 4000 1600" rotation="0 0 1 -4.37114e-008" unit_id="100135"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="4700 700 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_pex_carpark/cus_pex_carpark" name_id="cus_pex_carpark_001" position="4700 800 0" rotation="0 0 -0.707107 -0.707107" unit_id="100136"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="4700 -2400 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_pex_carpark/cus_pex_carpark_no_gate" name_id="cus_pex_carpark_no_gate_001" position="4700 -2400 0" rotation="0 0 -0.707107 -0.707107" unit_id="100138"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 -4000 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_004" position="0 -4000 0" rotation="0 0 0 -1" unit_id="100140"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
