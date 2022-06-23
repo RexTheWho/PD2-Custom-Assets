@@ -60,8 +60,8 @@
 			<object name="c_convex_012" collision_type="convex" padding="-2.5" />
 			<object name="c_convex_013" collision_type="convex" padding="-2.5" />
 			<object name="c_convex_014" collision_type="convex" padding="-2.5" />
-			<object name="c_mesh_stairs_04" collision_type="mesh_mopp" padding="-2.5" />
-			<object name="c_mesh_stairs_03" collision_type="mesh_mopp" padding="-2.5" />
+			<object name="c_mesh_stairs_01" collision_type="mesh_mopp" padding="-2.5" />
+			<object name="c_mesh_stairs_02" collision_type="mesh_mopp" padding="-2.5" />
 			<object name="c_convex_nav_01" collision_type="convex" padding="-2.5" />
 			<object name="c_convex_nav_02" collision_type="convex" padding="-2.5" />
 		</body>
