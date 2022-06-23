@@ -1,0 +1,6 @@
+<unit type="gen" slot="1">
+	<object file="units/pd2_mod_custom/cus_yacht_parts/cus_yacht_hull_stern" />
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+	</extensions>
+</unit>

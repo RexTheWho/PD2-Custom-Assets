@@ -461,6 +461,9 @@
 		<table>
 			<unit_data _prev_pos="0 -4000 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_004" position="0 -4000 0" rotation="0 0 0 -1" unit_id="100140"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="0 -4000 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_yacht_parts/cus_yacht_hull_stern" name_id="cus_yacht_hull_stern_001" position="0 -4000 0" rotation="0 0 0 -1" unit_id="100137"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

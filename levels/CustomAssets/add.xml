@@ -378,5 +378,14 @@
 		<model				path="units/pd2_mod_custom/cus_pex_carpark/cus_pex_carpark_no_gate" unload="true"/>
 	</add>
 	<!-- END OF CUSTOM PEX GARAGE -->
+
+	<!-- WICK YACHT -->
+	<add>
+		<material_config	path="units/pd2_mod_custom/cus_yacht_parts/cus_yacht_parts" unload="true"/>
+		<unit				path="units/pd2_mod_custom/cus_yacht_parts/cus_yacht_hull_stern" unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_yacht_parts/cus_yacht_hull_stern" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_yacht_parts/cus_yacht_hull_stern" unload="true"/>
+	</add>
+	<!-- WICK YACHT -->
 	
 </table>
