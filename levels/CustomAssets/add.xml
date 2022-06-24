@@ -387,5 +387,25 @@
 		<model				path="units/pd2_mod_custom/cus_yacht_parts/cus_yacht_hull_stern" unload="true"/>
 	</add>
 	<!-- WICK YACHT -->
+
+	<!-- FWB -->
+	<add>
+		<material_config	path="units/pd2_dlc_red/architecture/red" unload="true" from_db="true"/>
+		<unit				path="units/pd2_mod_custom/cus_red_fwb/architecture/red_int_building_conference_lower" unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_red_fwb/architecture/red_int_building_conference_lower" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_red_fwb/architecture/red_int_building_conference_lower" unload="true"/>
+		<unit				path="units/pd2_mod_custom/cus_red_fwb/architecture/red_int_building_conference_staircase" unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_red_fwb/architecture/red_int_building_conference_staircase" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_red_fwb/architecture/red_int_building_conference_staircase" unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_red_fwb/architecture/red_int_building_conference_staircase" unload="true"/>
+		
+		<material_config	path="units/pd2_dlc_red/props/red_prop_railings/red_prop_railing" unload="true" from_db="true"/>
+		<effect				path="effects/particles/window/bank_window_rail" unload="true" from_db="true"/>
+		<unit				path="units/pd2_mod_custom/cus_red_fwb/railings/red_prop_railing_stairs_01" unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_red_fwb/railings/red_prop_railing_stairs_01" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_red_fwb/railings/red_prop_railing_stairs_01" unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_red_fwb/railings/red_prop_railing_stairs_01" unload="true"/>
+	</add>
+	<!-- FWB -->
 	
 </table>

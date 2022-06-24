@@ -462,7 +462,16 @@
 			<unit_data _prev_pos="0 -4000 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_004" position="0 -4000 0" rotation="0 0 0 -1" unit_id="100140"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="0 -4000 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_yacht_parts/cus_yacht_hull_stern" name_id="cus_yacht_hull_stern_001" position="0 -4000 0" rotation="0 0 0 -1" unit_id="100137"/>
+			<unit_data _prev_pos="2000 -4800 -300" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_yacht_parts/cus_yacht_hull_stern" name_id="cus_yacht_hull_stern_001" position="2000 -4800 -200" rotation="0 0 1 4.37114e-008" unit_id="100137"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1500 -2700 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="explode" name="units/pd2_mod_custom/cus_red_fwb/architecture/red_int_building_conference_staircase" name_id="red_int_building_conference_staircase_001" position="-1500 -2700 0" rotation="-0 0 -0 -1" unit_id="100139"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1500 -2700 0" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_red_fwb/architecture/red_int_building_conference_lower" name_id="red_int_building_conference_lower_001" position="-1500 -2700 0" rotation="-0 0 -0 -1" unit_id="100141"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1325 -3350 -500" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_red_fwb/railings/red_prop_railing_stairs_01" name_id="red_prop_railing_stairs_01_001" position="-1325 -3350 -500" rotation="0 0 -0.707107 -0.707107" unit_id="100142"/>
 		</table>
 	</statics>
 	<values>
