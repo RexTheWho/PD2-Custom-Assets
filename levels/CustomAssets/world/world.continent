@@ -471,7 +471,10 @@
 			<unit_data _prev_pos="-1500 -2700 0" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_red_fwb/architecture/red_int_building_conference_lower" name_id="red_int_building_conference_lower_001" position="-1500 -2700 0" rotation="-0 0 -0 -1" unit_id="100141"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1325 -3350 -500" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_red_fwb/railings/red_prop_railing_stairs_01" name_id="red_prop_railing_stairs_01_001" position="-1325 -3350 -500" rotation="0 0 -0.707107 -0.707107" unit_id="100142"/>
+			<unit_data _prev_pos="-1325 -3350 -500" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="explode" name="units/pd2_mod_custom/cus_red_fwb/railings/red_prop_railing_stairs_01" name_id="red_prop_railing_stairs_01_001" position="-1325 -3350 -500" rotation="0 0 -0.707107 -0.707107" unit_id="100142"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1700 -400 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/cus_red_fwb/architecture/red_int_building_conference_anims" name_id="red_int_building_conference_anims_001" position="-1500 -2700 0" rotation="-0 0 -0 -1" unit_id="100143"/>
 		</table>
 	</statics>
 	<values>
