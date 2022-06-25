@@ -403,6 +403,21 @@
 		<model				path="units/pd2_mod_custom/cus_red_fwb/architecture/red_int_building_conference_anims" unload="true"/>
 		<sequence_manager	path="units/pd2_mod_custom/cus_red_fwb/architecture/red_int_building_conference_anims" unload="true"/>
 		
+		<unit				path="units/pd2_mod_custom/cus_red_fwb/architecture/vault_room/vault_room" unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_red_fwb/architecture/vault_room/vault_room" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_red_fwb/architecture/vault_room/vault_room" unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_red_fwb/architecture/vault_room/vault_room" unload="true"/>
+		
+		<unit				path="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" unload="true"/>
+		
+		<unit				path="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_boxes" unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_boxes" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_boxes" unload="true"/>
+		<sequence_manager	path="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_boxes" unload="true"/>
+		
 		<unit				path="units/pd2_mod_custom/cus_red_fwb/architecture/vault_gate/vault_gate" unload="true"/>
 		<object				path="units/pd2_mod_custom/cus_red_fwb/architecture/vault_gate/vault_gate" unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_red_fwb/architecture/vault_gate/vault_gate" unload="true"/>

@@ -21,6 +21,7 @@
 			<value_node value="levels/narratives/escapes/escape_park/backdrop/backdrop"/>
 			<value_node value="levels/instances/unique/pet_shutter/world/world"/>
 			<value_node value="levels/instances/unique/pent/pent_double_doors_spawn/world/world"/>
+			<value_node value="levels/instances/unique/brb/brb_deposit_room/world/world"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">

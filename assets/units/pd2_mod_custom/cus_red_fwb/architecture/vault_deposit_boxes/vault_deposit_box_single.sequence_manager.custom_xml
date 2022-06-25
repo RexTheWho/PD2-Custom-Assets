@@ -1,0 +1,146 @@
+<table>
+	<unit>
+		<sequence editable_state="true" name="'disable_interaction'" triggable="true">
+			<interaction enabled="false"/>
+			<graphic_group name="'drillicongroup'" visibility="false"/>
+		</sequence>
+		<sequence editable_state="true" name="'enable_interaction'" triggable="true">
+			<interaction enabled="true"/>
+			<graphic_group name="'drillicongroup'" visibility="true"/>
+		</sequence>
+		<sequence editable_state="false" name="'enable_special'" triggable="true">
+			<set_variables var_random="0"/>
+		</sequence>
+		<sequence editable_state="false" name="'enable_achievement'" triggable="true">
+			<set_variables var_random="2"/>
+		</sequence>
+		<sequence editable_state="true" name="'enable_bex_cassette_tape'" triggable="true">
+			<set_variables var_random="4"/>
+		</sequence>
+		<sequence editable_state="false" name="'enable_deposit'" triggable="true">
+			<set_variables var_deposit="1"/>
+		</sequence>
+		<sequence editable_state="true" name="'state_spawn_nothing'" triggable="true">
+			<set_variables var_nothing="1"/>
+			<set_variables var_random="3"/>
+			<set_variables var_deposit="2"/>
+			<set_variables var_extra="101"/>
+		</sequence>
+		<variables>
+			<var_random value="1"/>
+			<var_nothing value="0"/>
+			<var_deposit value="0"/>
+			<var_extra value="100"/>
+			<var_anim value="0"/>
+		</variables>
+		<filter name="'filter_random'">
+			<check value="vars.var_random == 1"/>
+		</filter>
+		<filter name="'filter_special'">
+			<check value="vars.var_random == 0"/>
+		</filter>
+		<filter name="'filter_nothing'">
+			<check value="vars.var_nothing == 1"/>
+		</filter>
+		<filter name="'filter_achievement'">
+			<check value="vars.var_random == 2"/>
+		</filter>
+		<filter name="'filter_bex_cassette_tape'">
+			<check value="vars.var_random == 4"/>
+		</filter>
+		<filter name="'filter_extra'">
+			<check value="vars.var_extra &lt;= 3"/>
+		</filter>
+		<filter name="'filter_no_extra'">
+			<check value="vars.var_extra > 3"/>
+		</filter>
+		<filter name="'filter_deposit'">
+			<check value="vars.var_deposit == 1"/>
+			<check value="vars.var_random == 1"/>
+		</filter>
+		<filter name="'filter_no_deposit'">
+			<check value="vars.var_random == 1"/>
+			<check value="vars.var_deposit == 0"/>
+		</filter>
+		<filter name="'filter_anim'">
+			<check value="vars.var_anim == 0"/>
+		</filter>
+		<filter name="'filter_anim_02'">
+			<check value="vars.var_anim == 1"/>
+		</filter>
+		<sequence editable_state="true" name="'state_set_anim_door_90'" triggable="true">
+			<set_variables var_anim="1"/>
+		</sequence>
+		<sequence editable_state="false" name="'spawn_loot_crap_a'" triggable="false">
+			<spawn_unit name="'units/payday2/props/bnk_prop_vault_loot/bnk_prop_vault_loot_crap_a'" position="object_pos('sp_spawn')" rotation="object_rot('sp_spawn')"/>
+		</sequence>
+		<sequence editable_state="false" name="'spawn_loot_crap_b'" triggable="false">
+			<spawn_unit name="'units/payday2/props/bnk_prop_vault_loot/bnk_prop_vault_loot_crap_b'" position="object_pos('sp_spawn')" rotation="object_rot('sp_spawn')"/>
+		</sequence>
+		<sequence editable_state="false" name="'spawn_loot_crap_c'" triggable="false">
+			<spawn_unit name="'units/payday2/props/bnk_prop_vault_loot/bnk_prop_vault_loot_crap_c'" position="object_pos('sp_spawn')" rotation="object_rot('sp_spawn')"/>
+		</sequence>
+		<sequence editable_state="false" name="'spawn_loot_crap_d'" triggable="false">
+			<spawn_unit name="'units/payday2/props/bnk_prop_vault_loot/bnk_prop_vault_loot_crap_d'" position="object_pos('sp_spawn')" rotation="object_rot('sp_spawn')"/>
+		</sequence>
+		<sequence editable_state="false" name="'spawn_loot_crap_e'" triggable="false">
+			<spawn_unit filter="'filter_no_extra'" name="'units/payday2/props/bnk_prop_vault_loot/bnk_prop_vault_loot_crap_e'" position="object_pos('sp_spawn')" rotation="object_rot('sp_spawn')"/>
+			<run_sequence filter="'filter_extra'" name="'spawn_german_folder'"/>
+		</sequence>
+		<sequence editable_state="false" name="'spawn_loot_value_a'" triggable="false">
+			<spawn_unit name="'units/payday2/props/bnk_prop_vault_loot/bnk_prop_vault_loot_value_a'" position="object_pos('sp_spawn')" rotation="object_rot('sp_spawn')"/>
+		</sequence>
+		<sequence editable_state="false" name="'spawn_loot_value_b'" triggable="false">
+			<spawn_unit name="'units/payday2/props/bnk_prop_vault_loot/bnk_prop_vault_loot_value_b'" position="object_pos('sp_spawn')" rotation="object_rot('sp_spawn')"/>
+		</sequence>
+		<sequence editable_state="false" name="'spawn_loot_value_c'" triggable="false">
+			<spawn_unit name="'units/payday2/props/bnk_prop_vault_loot/bnk_prop_vault_loot_value_c'" position="object_pos('sp_spawn')" rotation="object_rot('sp_spawn')"/>
+		</sequence>
+		<sequence editable_state="false" name="'spawn_loot_value_d'" triggable="false">
+			<spawn_unit name="'units/payday2/props/bnk_prop_vault_loot/bnk_prop_vault_loot_value_d'" position="object_pos('sp_spawn')" rotation="object_rot('sp_spawn')"/>
+		</sequence>
+		<sequence editable_state="false" name="'spawn_loot_value_e'" triggable="false">
+			<spawn_unit name="'units/payday2/props/bnk_prop_vault_loot/bnk_prop_vault_loot_value_e'" position="object_pos('sp_spawn')" rotation="object_rot('sp_spawn')"/>
+		</sequence>
+		<sequence editable_state="false" name="'spawn_nothing'" triggable="false"/>
+		<sequence editable_state="false" name="'spawn_loot_empty'" triggable="false"/>
+		<sequence editable_state="false" name="'spawn_special_money'" triggable="false">
+			<spawn_unit name="'units/payday2/props/bnk_prop_vault_loot/bnk_prop_vault_loot_special_money'" position="object_pos('sp_spawn1')" rotation="object_rot('sp_spawn1')"/>
+		</sequence>
+		<sequence editable_state="false" name="'spawn_special_gold'" triggable="false">
+			<spawn_unit name="'units/payday2/props/bnk_prop_vault_loot/bnk_prop_vault_loot_special_gold'" position="object_pos('sp_spawn1')" rotation="object_rot('sp_spawn1')"/>
+		</sequence>
+		<sequence editable_state="false" name="'spawn_special_achievement'" triggable="false">
+			<spawn_unit name="'units/payday2/props/bnk_prop_vault_loot/bnk_prop_vault_loot_poster'" position="object_pos('sp_spawn1')" rotation="object_rot('sp_spawn1')"/>
+		</sequence>
+		<sequence editable_state="false" name="'spawn_german_folder'" triggable="false">
+			<spawn_unit name="'units/pd2_dlc_jfr/pickups/pku_german_folder/pku_german_folder'" position="object_pos('sp_spawn1')" rotation="object_rot('sp_spawn1')"/>
+		</sequence>
+		<sequence editable_state="false" name="'int_seq_open'" once="true" triggable="false">
+			<set_variables var_extra="100*rand()"/>
+			<graphic_group name="'drillicongroup'" visibility="false"/>
+			<interaction enabled="false"/>
+			<animation_group enabled="true" filter="'filter_anim'" name="'anim'"/>
+			<animation_group enabled="true" filter="'filter_anim_02'" from="0/30" name="'anim'" speed="0.5" to="12/30"/>
+			<body enabled="false" name="'body_door'"/>
+			<body enabled="true" name="'body_door'" start_time="20/30"/>
+			<run_sequence filter="'filter_no_deposit'" name=" 'spawn_loot_'..pick('crap_a','crap_b','crap_c','crap_d','crap_e','value_a','value_b','value_c','value_d','value_e','value_a','value_b','value_c','value_d','value_e','empty','empty','crap_d')"/>
+			<run_sequence filter="'filter_deposit'" name=" 'spawn_loot_'..pick('crap_a','crap_b','crap_c','crap_d','crap_e','value_a','value_a','value_a','value_b','value_c','value_d','value_b','value_c','value_d','value_e','value_e','value_e','value_a','value_b','value_c','value_d','value_e','empty','crap_d')"/>
+			<run_sequence filter="'filter_special'" name=" 'spawn_special_'..pick('money','gold','money','money','money')"/>
+			<run_sequence filter="'filter_achievement'" name=" 'spawn_special_achievement' "/>
+			<run_sequence filter="'filter_bex_cassette_tape'" name=" 'spawn_loot_bex_cassette_tape' "/>
+			<run_sequence filter="'filter_nothing'" name=" 'spawn_nothing' "/>
+		</sequence>
+		<sequence editable_state="false" name="'spawn_loot_bex_cassette_tape'" triggable="false">
+			<spawn_unit name="'units/pd2_dlc_bex/props/bex_prop_cassette_tape/bex_prop_cassette_tape'" position="object_pos('sp_spawn')" rotation="object_rot('sp_spawn')"/>
+		</sequence>
+		<sequence editable_state="false" name="'interact'" triggable="false">
+			<run_sequence name="'int_seq_open'"/>
+		</sequence>
+		<body name="'body_door'">
+			<endurance lock="15">
+				<run_sequence name="'int_seq_open'"/>
+			</endurance>
+		</body>
+	</unit>
+</table>

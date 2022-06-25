@@ -6,8 +6,8 @@
 		</sequence>
 		
 		<sequence editable_state="true" name="'activate_fwb_frame'" triggable="true">
-			<decal_mesh enabled="false" name="'g_vault_gate_fwbframe'" />
-			<object enabled="false" name="'g_vault_gate_fwbframe'"/>
+			<decal_mesh enabled="true" name="'g_vault_gate_fwbframe'" />
+			<object enabled="true" name="'g_vault_gate_fwbframe'"/>
 			<run_sequence name="'activate'"/>
 		</sequence>
 		
