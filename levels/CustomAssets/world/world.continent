@@ -494,6 +494,78 @@
 		<table>
 			<unit_data _prev_pos="250 -4800 -10" _prev_rot="0 0 1 -4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_boxes" name_id="vault_deposit_boxes_003" position="-50 -4800 -10" rotation="0 0 1 -4.37114e-008" unit_id="100149"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="574 -4873 33" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_special" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_001" position="574 -4873 33" rotation="0 0 -0.707107 -0.707107" unit_id="100150"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -4873 66" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 33" local_rot="0 0 0 1" mesh_variation="enable_interaction" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_002" position="574 -4873 66" rotation="0 0 -0.707107 -0.707107" unit_id="100151"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -4873 99" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_bex_cassette_tape" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_003" position="574 -4873 99" rotation="0 0 -0.707107 -0.707107" unit_id="100152"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -4918 33" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_special" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_004" position="574 -4918 33" rotation="0 0 -0.707107 -0.707107" unit_id="100153"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -4918 66" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_special" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_005" position="574 -4918 66" rotation="0 0 -0.707107 -0.707107" unit_id="100154"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -4873 99" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 66" local_rot="0 0 0 1" mesh_variation="enable_interaction" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_006" position="574 -4918 99" rotation="0 0 -0.707107 -0.707107" unit_id="100155"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -4918 33" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_interaction" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_007" position="574 -4963 33" rotation="0 0 -0.707107 -0.707107" unit_id="100156"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -4963 66" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_special" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_008" position="574 -4963 66" rotation="0 0 -0.707107 -0.707107" unit_id="100157"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -4918 99" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 66" local_rot="0 0 0 1" mesh_variation="enable_interaction" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_009" position="574 -4963 99" rotation="0 0 -0.707107 -0.707107" unit_id="100158"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -4963 33" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_interaction" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_010" position="574 -5008 33" rotation="0 0 -0.707107 -0.707107" unit_id="100159"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -4963 66" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 33" local_rot="0 0 0 1" mesh_variation="enable_interaction" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_011" position="574 -5008 66" rotation="0 0 -0.707107 -0.707107" unit_id="100160"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -4963 99" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 66" local_rot="0 0 0 1" mesh_variation="enable_interaction" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_012" position="574 -5008 99" rotation="0 0 -0.707107 -0.707107" unit_id="100161"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -5008 33" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_interaction" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_013" position="574 -5053 33" rotation="0 0 -0.707107 -0.707107" unit_id="100162"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -5008 66" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 33" local_rot="0 0 0 1" mesh_variation="enable_interaction" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_014" position="574 -5053 66" rotation="0 0 -0.707107 -0.707107" unit_id="100163"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -5053 99" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_achievement" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_015" position="574 -5053 99" rotation="0 0 -0.707107 -0.707107" unit_id="100164"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -5053 33" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_interaction" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_016" position="574 -5098 33" rotation="0 0 -0.707107 -0.707107" unit_id="100165"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -5098 66" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_special" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_017" position="574 -5098 66" rotation="0 0 -0.707107 -0.707107" unit_id="100166"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -5098 99" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_deposit" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_018" position="574 -5098 99" rotation="0 0 -0.707107 -0.707107" unit_id="100167"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -5143 33" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_special" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_019" position="574 -5143 33" rotation="0 0 -0.707107 -0.707107" unit_id="100168"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -5143 66" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_special" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_020" position="574 -5143 66" rotation="0 0 -0.707107 -0.707107" unit_id="100169"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -5143 99" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="-45 0 0" local_rot="0 0 0 1" mesh_variation="enable_interaction" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_021" position="574 -5143 99" rotation="0 0 -0.707107 -0.707107" unit_id="100170"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -5143 33" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_interaction" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_022" position="574 -5188 33" rotation="0 0 -0.707107 -0.707107" unit_id="100171"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -5143 66" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 33" local_rot="0 0 0 1" mesh_variation="enable_interaction" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_023" position="574 -5188 66" rotation="0 0 -0.707107 -0.707107" unit_id="100172"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="574 -5143 99" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 66" local_rot="0 0 0 1" mesh_variation="enable_interaction" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_024" position="574 -5188 99" rotation="0 0 -0.707107 -0.707107" unit_id="100173"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

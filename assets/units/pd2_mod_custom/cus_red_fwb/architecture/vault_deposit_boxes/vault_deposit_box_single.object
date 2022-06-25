@@ -1,5 +1,5 @@
 <dynamic_object>
-	<diesel materials="units/pd2_dlc_red/architecture/red" orientation_object="rp_root" />
+	<diesel materials="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" orientation_object="rp_root" />
 	<sequence_manager file="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" />
 	<animations>
 		<animation_group name="anim">
