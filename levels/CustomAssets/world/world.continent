@@ -569,6 +569,12 @@
 		<table>
 			<unit_data _prev_pos="574 -5143 99" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 66" local_rot="0 0 0 1" mesh_variation="enable_interaction" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_024" position="574 -5188 99" rotation="0 0 -0.707107 -0.707107" unit_id="100173"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="2100 300 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" delayed_load="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="activate" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_gate/vault_gate" name_id="vault_gate_002" position="2100 301 0" rotation="0 0 0.707107 -0.707107" unit_id="100175"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2100 0 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_pillar_1m_a" name_id="mkp_int_pillar_1m_a_009" position="2100 495 0" rotation="0 0 0 -1" unit_id="100176"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
