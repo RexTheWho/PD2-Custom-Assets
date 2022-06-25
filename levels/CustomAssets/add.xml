@@ -413,6 +413,11 @@
 		<model				path="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" unload="true"/>
 		<sequence_manager	path="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" unload="true"/>
 		<material_config	path="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" unload="true"/>
+		<unit				path="units/world/props/bank/money_wrap/money_wrap_single_bundle_active" unload="true" from_db="true"/>
+		<object				path="units/world/props/bank/money_wrap/money_wrap_single_bundle" unload="true" from_db="true"/>
+		<model				path="units/world/props/bank/money_wrap/money_wrap_single_bundle" unload="true" from_db="true"/>
+		<sequence_manager	path="units/world/props/bank/money_wrap/money_wrap_single_bundle" unload="true" from_db="true"/>
+		<material_config	path="units/world/props/bank/money_wrap/money_wrap_single_bundle" unload="true" from_db="true"/>
 		
 		<unit				path="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_boxes" unload="true"/>
 		<object				path="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_boxes" unload="true"/>

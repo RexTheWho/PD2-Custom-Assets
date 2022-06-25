@@ -498,7 +498,7 @@
 			<unit_data _prev_pos="574 -4873 33" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_special" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_001" position="574 -4873 33" rotation="0 0 -0.707107 -0.707107" unit_id="100150"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="574 -4873 66" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 33" local_rot="0 0 0 1" mesh_variation="enable_interaction" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_002" position="574 -4873 66" rotation="0 0 -0.707107 -0.707107" unit_id="100151"/>
+			<unit_data _prev_pos="574 -4873 66" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_deposit" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_002" position="574 -4873 66" rotation="0 0 -0.707107 -0.707107" unit_id="100151"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="574 -4873 99" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_bex_cassette_tape" name="units/pd2_mod_custom/cus_red_fwb/architecture/vault_deposit_boxes/vault_deposit_box_single" name_id="vault_deposit_box_single_003" position="574 -4873 99" rotation="0 0 -0.707107 -0.707107" unit_id="100152"/>
