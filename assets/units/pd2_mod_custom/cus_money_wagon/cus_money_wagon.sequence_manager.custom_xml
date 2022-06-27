@@ -29,11 +29,13 @@
 		<sequence editable_state="true" name="'anim_door_open'" triggable="true">
 			<run_sequence name="'disable_interaction'"/>
 			<body enabled="true" name="'animated_body'"/>
+			<object name="'g_door_cover'" enabled="true" />
 			<animation_group enabled="true" from="0/30" name="'anim_door'" speed="1" to="40/30"/>
 			<run_sequence name="'show_loot'" start_time="30/30"/>
 		</sequence>
 		
 		<sequence editable_state="true" name="'anim_door_close'" triggable="true">
+			<object name="'g_door_cover'" enabled="false" />
 			<animation_group enabled="true" from="70/30" name="'anim_door'" speed="1" to="160/30"/>
 			<run_sequence name="'done_closed'" start_time="30/30"/>
 		</sequence>

@@ -28,9 +28,9 @@
 	</decal_surfaces>
 	
 	<graphics>
-		<object name="g_wagon" enabled="true" shadow_caster="false"/>
-		<object name="g_door" enabled="true" shadow_caster="false"/>
-		<object name="g_door_cover" enabled="true" shadow_caster="false"/>
+		<object name="g_wagon" enabled="true"/>
+		<object name="g_door" enabled="true"/>
+		<object name="g_door_cover" enabled="false"/>
 		
 		<graphic_group name="drillicongroup" 	enabled="false" culling_object="g_icon">
 			<lod_object name="drill_icon">
