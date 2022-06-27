@@ -602,6 +602,12 @@
 		<table>
 			<unit_data _prev_pos="337 -186 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="hide" name="units/pd2_mod_custom/cus_money_wagon/cus_money_wagon_loot" name_id="cus_money_wagon_loot_001" position="337 -186 0" rotation="0 0 0.707107 -0.707107" unit_id="100185"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="2243.06 -5937.83 220.012" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_red_fwb/architecture/bank_logo/bank_logo_medium" name_id="bank_logo_medium_001" position="2243.06 -5937.83 262.012" rotation="0 0 -0.707107 -0.707107" unit_id="100186"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2270.07 -5881.61 203.151" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_red_fwb/architecture/bank_logo/bank_logo_big" name_id="bank_logo_big_001" position="2270.07 -5881.61 203.151" rotation="0 0 -0.707107 -0.707107" unit_id="100187"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
