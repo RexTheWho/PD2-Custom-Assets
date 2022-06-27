@@ -6,6 +6,7 @@
 	<animations>
 		<animation_group name="anim_door" enabled="false">
 			<object name="anim_door"/>
+			<object name="anim_door_cover"/>
 		</animation_group>
 	</animations>
 	
