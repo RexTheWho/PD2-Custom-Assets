@@ -12,8 +12,8 @@
 		</sequence>
 		<sequence editable_state="true" name="'open_vent_3'" triggable="true">
 			<body			enabled="false"		name="'vent_cap3'"/>
-			<object			enabled="false"		name="'g_room3_ventcap'"/>
-			<decal_mesh		enabled="false"		name="'g_room3_ventcap'"/>
+			<object			enabled="false"		name="'g_room2_ventcap'"/>
+			<decal_mesh		enabled="false"		name="'g_room2_ventcap'"/>
 		</sequence>
 	</unit>
 </table>
