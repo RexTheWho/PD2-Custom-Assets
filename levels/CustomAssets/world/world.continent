@@ -608,6 +608,12 @@
 		<table>
 			<unit_data _prev_pos="2270.07 -5881.61 203.151" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_red_fwb/architecture/bank_logo/bank_logo_big" name_id="bank_logo_big_001" position="2270.07 -5881.61 203.151" rotation="0 0 -0.707107 -0.707107" unit_id="100187"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="1530.06 -2320.89 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_red_fwb/architecture/carpets/carpet_left" name_id="carpet_left_001" position="1530.06 -2320.89 0" rotation="0 0 0 -1" unit_id="100188"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1543.79 -2486.89 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/cus_red_fwb/architecture/carpets/carpet_right" name_id="carpet_right_001" position="1543.79 -2486.89 0" rotation="0 0 0 -1" unit_id="100189"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
