@@ -1,5 +1,5 @@
 <dynamic_object>
-	<diesel materials="units/pd2_dlc_red/architecture/red" orientation_object="rp_root"/>
+	<diesel materials="units/pd2_dlc_red/architecture/red" orientation_object="rp_red_int_garage"/>
 	<bodies>
 		<body name="body_static" enabled="true" template="static">
 			<object name="rp_red_int_garage"/>
