@@ -446,6 +446,14 @@
 		<object				path="units/pd2_mod_custom/cus_red_fwb/railings/red_prop_railing_stairs_01" unload="true"/>
 		<model				path="units/pd2_mod_custom/cus_red_fwb/railings/red_prop_railing_stairs_01" unload="true"/>
 		<sequence_manager	path="units/pd2_mod_custom/cus_red_fwb/railings/red_prop_railing_stairs_01" unload="true"/>
+		
+		
+		<unit				path="units/pd2_mod_custom/cus_red_fwb/architecture/carpets/carpet_left" unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_red_fwb/architecture/carpets/carpet_left" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_red_fwb/architecture/carpets/carpet_left" unload="true"/>
+		<unit				path="units/pd2_mod_custom/cus_red_fwb/architecture/carpets/carpet_right" unload="true"/>
+		<object				path="units/pd2_mod_custom/cus_red_fwb/architecture/carpets/carpet_right" unload="true"/>
+		<model				path="units/pd2_mod_custom/cus_red_fwb/architecture/carpets/carpet_right" unload="true"/>
 		 
 	</add>
 	<!-- FWB -->
